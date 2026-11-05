@@ -1,0 +1,15 @@
+{
+  "id": "tomato-superstar",
+  "name": "Tomato Superstar",
+  "created": "2026-11-05",
+  "description": "a glossy red cartoon tomato character, rounded Pixar-style 3D, smooth skin with a soft highlight, a curved green stem-and-leaf cap tilted to one side, large expressive eyes with thick dark eyebrows, short stubby arms and legs",
+  "voice": "bright theatrical young male voice, Hinglish, like a stage announcer who believes every word",
+  "signature": "spreads both stubby arms wide when he announces something",
+  "doNot": ["no clothes", "no hat other than the green stem cap", "no human hands"],
+  "images": {
+    "anchor": "see prompts.md — generated with Nano Banana in Google Vids, lives in the Vids project below",
+    "vidsProject": "https://docs.google.com/videos/d/1SMRlK7FpZ_NS5dE1ij_lkcw2qSfIfLYlXqlUwoBj28Y/edit"
+  },
+  "appearsIn": ["tomato-superstar"],
+  "notes": "Anchor image was generated inside Google Vids and used as the single ingredient (@image1) for all three shots. Vids does not offer a download on generated images, so the reusable artefact is the Vids project plus the exact prompt in prompts.md. Re-open that project and reuse the same image as the ingredient for the next video."
+}

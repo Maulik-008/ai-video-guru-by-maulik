@@ -1,0 +1,64 @@
+{
+  "slug": "tomato-superstar",
+  "title": "Tomato Superstar",
+  "language": "hi-IN (Hinglish)",
+  "aspect": "9:16",
+  "tool": "google-vids",
+  "model": "omni",
+  "resolution": "720p",
+  "shotSeconds": 10,
+  "styleLine": "Pixar-style 3D animation, soft cinematic lighting, shallow depth of field, no text, no captions, no subtitles.",
+  "cast": ["tomato-superstar"],
+  "sets": ["kitchen-spotlight"],
+  "beats": [
+    "hook: he steps into the spotlight and refuses to be salad",
+    "turn: he announces he will become ketchup, by choice",
+    "payoff: inside the blender jar, the lid lowers, he is at peace"
+  ],
+  "shots": [
+    {
+      "id": "s01",
+      "seconds": 10,
+      "beat": "hook",
+      "set": "kitchen-spotlight",
+      "ingredients": ["anchor image (@image1)"],
+      "camera": "medium shot, slow push-in",
+      "speaker": "tomato-superstar",
+      "line": "Doston, aaj main salad nahi banunga. Aaj main kuch bada karunga.",
+      "sfx": "a stage spotlight clunk, a tiny footstep squeak",
+      "ambient": "a quiet night kitchen hum",
+      "joinToNext": "cut",
+      "prompt": "see cast/tomato-superstar/prompts.md#s01"
+    },
+    {
+      "id": "s02",
+      "seconds": 10,
+      "beat": "turn",
+      "set": "kitchen-spotlight",
+      "ingredients": ["anchor image (@image1)"],
+      "camera": "low wide shot past the vegetables",
+      "speaker": "tomato-superstar",
+      "line": "Main ketchup banunga. Apni marzi se. Koi mujhe rok nahi sakta.",
+      "sfx": "a small gasp from the vegetables, a blender motor starting off screen",
+      "ambient": "a quiet night kitchen hum",
+      "joinToNext": "cut",
+      "prompt": "see cast/tomato-superstar/prompts.md#s02"
+    },
+    {
+      "id": "s03",
+      "seconds": 10,
+      "beat": "payoff",
+      "set": "kitchen-spotlight",
+      "ingredients": ["anchor image (@image1)"],
+      "camera": "close-up, slow push-in, lit from below",
+      "speaker": "tomato-superstar",
+      "line": "Superstar banne ke liye thoda toot-na padta hai.",
+      "sfx": "a glass blender lid clicking shut",
+      "ambient": "a quiet night kitchen hum",
+      "joinToNext": null,
+      "prompt": "see cast/tomato-superstar/prompts.md#s03"
+    }
+  ],
+  "assembly": { "with": "google-vids", "captions": false, "music": null, "endCard": null },
+  "estimate": { "clips": 3, "quotaUnit": "seconds of video generation per month", "quotaUsed": 30 }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "kitchen-spotlight",
+  "name": "Kitchen spotlight",
+  "created": "2026-11-05",
+  "description": "a home kitchen at night, a wooden counter lit by one bright overhead pool of light like a stage, rows of other vegetables sitting in shadow at the edges, dark blurred kitchen behind",
+  "lighting": "single warm overhead key, deep shadows, shallow depth of field",
+  "timeOfDay": "night",
+  "plate": "none — this set was described in the prompt only, never generated as a plate image",
+  "usedIn": ["tomato-superstar"],
+  "notes": "Held up well across all three shots from description alone. For a longer video, generate a plate image and pass it as a second ingredient so the shelf and counter stay identical."
+}

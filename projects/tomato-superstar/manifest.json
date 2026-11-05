@@ -1,0 +1,28 @@
+{
+  "slug": "tomato-superstar",
+  "runStart": "2026-11-05T12:31:00+05:30",
+  "tool": "google-vids",
+  "vidsProject": "https://docs.google.com/videos/d/1SMRlK7FpZ_NS5dE1ij_lkcw2qSfIfLYlXqlUwoBj28Y/edit",
+  "outDir": "C:\\Users\\Mitesh\\Videos\\VideoGuru\\tomato-superstar",
+  "deliverable": "C:\\Users\\Mitesh\\Videos\\VideoGuru\\tomato-superstar\\tomato-superstar.mp4",
+  "ingredients": { "tomato-superstar": "done (anchor image, 1 attempt, accepted)" },
+  "shots": {
+    "s01": { "state": "done", "attempts": 1, "seconds": 10 },
+    "s02": { "state": "done", "attempts": 1, "seconds": 10 },
+    "s03": { "state": "done", "attempts": 1, "seconds": 10 }
+  },
+  "quota": {
+    "unit": "seconds of Vids video generation per month",
+    "remainingBeforeRun": 40,
+    "usedThisRun": 30,
+    "remainingAfterRun": 10,
+    "resets": "2026-12-01T13:30:00"
+  },
+  "notes": [
+    "User accepted the Workspace 'Create content from images' consent dialog themselves; Claude did not click it.",
+    "Operator error: shot 3 was first inserted with the Replace button while a clip was selected, overwriting scene 2. Corrected by replacing scene 2 with shot 2 again and inserting shot 3 as a new scene. No extra generation was spent.",
+    "Audio not verified by ear — the clips carry an audio track and Vids offered its 'Balance sound' suggestion, which implies speech is present, but whether the Hinglish lines are spoken correctly is unchecked.",
+    "No captions, music or end card added.",
+    "Vids offers only the Omni model on this account — no Veo. Clips are 10s, 720p."
+  ]
+}
