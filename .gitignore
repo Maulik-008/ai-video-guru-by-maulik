@@ -1,0 +1,20 @@
+# generated video, never committed
+out/
+*.mp4
+*.mov
+*.webm
+*.wav
+
+# run scratch
+*.crdownload
+*.tmp
+
+# machine-local
+.env
+.env.local
+
+# os / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
