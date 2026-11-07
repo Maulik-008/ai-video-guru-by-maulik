@@ -1,0 +1,115 @@
+{
+  "slug": "chai-invasion",
+  "state": "done — 6 scenes, 60.2 s, s01 + s02 revised on 2026-11-05 (clarity fix); no captions; NOT exported",
+  "tool": "google-vids",
+  "model": "omni, 720p, portrait 9:16, 10 s",
+  "vidsProject": "https://docs.google.com/videos/d/1SU8Xgz5gSv9A9pfQXNCaHdpVo9A6mLUkyJUgDHJ0oZI/edit",
+  "imagesDone": {
+    "commander-zog": "done, 1 attempt, accepted — lavender-purple, yellow eyes, orange antennae, silver chest plate + glowing badge",
+    "kamla-dadi": "done, 1 attempt, accepted — minor drift: reads slim rather than 'plump'; everything else matches",
+    "rooftop-dusk": "done, 1 attempt, accepted — terrace, UFO by water tank, saris on line, cane table"
+  },
+  "ingredientMechanism": "Images made in the Vids Image panel; the MIDDLE hover icon on a tile sends it to the AI Video panel in Create mode as @imageN. The canvas 'Convert to video' button instead switches to Animate (start frame) — do not use it for ingredients. The Add menu only offers Avatar/Upload.",
+  "preflight": {
+    "date": "2026-11-05",
+    "browserAccount": "mb.dev08@gmail.com",
+    "gemini.google.com": "allowed, signed in (prompt box present)",
+    "flow.google.com": "BLOCKED — 'Navigation to this domain is not allowed' (user must allow it in the extension's site permissions; not needed for the Vids route)",
+    "vids.google.com": "BLOCKED as a domain, but docs.google.com/videos is allowed and signed in — this is the host Vids actually lives on",
+    "vidsProject": "https://docs.google.com/videos/d/1SU8Xgz5gSv9A9pfQXNCaHdpVo9A6mLUkyJUgDHJ0oZI/edit — existing empty 'Untitled video', 9:16, 1 empty 5 s scene; opened only, nothing generated",
+    "vidsAiVideoPanel": "model Omni, 720p, Portrait, duration slider max 10 s, up to 3 image ingredients + Avatar slot",
+    "quotaRemaining": "UNKNOWN — the panel and settings menu show no balance. The tomato manifest's '10 s left until 2026-12-01' belongs to a different Google account (tomato project returns 'You need access' for mb.dev08@gmail.com), so it does not apply here."
+  },
+  "ingredients": {
+    "commander-zog": "pending",
+    "kamla-dadi": "pending",
+    "rooftop-dusk": "pending"
+  },
+  "shots": {
+    "s01": {
+      "state": "done",
+      "attempts": 1,
+      "seconds": 10,
+      "ingredients": "@image1 Zog, @image2 Dadi, @image3 rooftop-dusk",
+      "check": "poster frame verified by eye: Zog on parapet with blue beam, UFO above, ray gun raised, Dadi watering marigolds; both faces match anchors; 2 characters, no extra people. AUDIO NOT VERIFIED — no way to listen from the browser tool; Hindi line delivery and lip sync unchecked.",
+      "insertedAs": "Video layer on scene 1 via Replace dropdown > Insert. A stray Zog anchor 'Image' layer is still on scene 1 and must be deleted at assembly.",
+      "promptNote": "Zog's voice in s01 uses only 'deep booming villain voice, in Hindi' — the 'cracks into a squeak' clause is reserved for s02 (plan.json updated to match)."
+    },
+    "s02": {
+      "state": "done",
+      "attempts": 1,
+      "seconds": 10,
+      "ingredients": "@image1 Zog, @image2 rooftop-dusk",
+      "check": "poster frame verified by eye: Zog close-up, hand on glowing translator badge, panicked face, UFO behind. Eyebrows read softer than the anchor (matches 'knotted in panic'). AUDIO NOT VERIFIED.",
+      "insertedAs": "Video layer on new scene 2 via the panel's Insert button."
+    },
+    "s03": {
+      "state": "done",
+      "attempts": 1,
+      "seconds": 10,
+      "ingredients": "@image1 Dadi, @image2 Zog, @image3 rooftop-dusk",
+      "check": "poster frame verified by eye: Dadi pours chai from a steel kettle in her green saree + blue cardigan, Zog beside her holding a cup with a glowing badge and soft eyes, UFO hovering behind. Ray gun not visible in the poster frame. AUDIO NOT VERIFIED — Dadi's closing line and the alien chirps unchecked.",
+      "insertedAs": "Video layer on new scene 3 via the panel's Insert button."
+    },
+    "s00": {
+      "state": "done",
+      "attempts": 1,
+      "seconds": 10,
+      "ingredients": "@image1 Dadi, @image2 rooftop-dusk",
+      "check": "first and late frames verified by eye: Dadi pinning saris on the clothesline at golden hour, rooftop and marigolds match the plate. Thumbnails show the UFO appearing later in the clip; not visible in the late frame sampled. Silent by design.",
+      "insertedAs": "Inserted into a blank scene after scene 1, then Scene > Move scene > Move scene to beginning."
+    },
+    "s02b": {
+      "state": "done",
+      "attempts": 1,
+      "seconds": 10,
+      "ingredients": "@image1 Dadi, @image2 Zog, @image3 rooftop-dusk",
+      "check": "poster frame verified by eye: Dadi bends kindly toward Zog, who stands with ray gun drooping, uncertain brows, glowing badge; UFO, saris, marigolds behind. Dadi reads rounder than in the anchor (closer to 'plump'). AUDIO NOT VERIFIED.",
+      "insertedAs": "Video layer on a new blank scene added after s02 (Scene > New scene), before old s03. Timeline now 40.1 s."
+    },
+    "s04": {
+      "state": "done",
+      "attempts": 1,
+      "seconds": 10,
+      "ingredients": "@image1 Zog, @image2 Dadi, @image3 rooftop-dusk",
+      "check": "poster frame verified by eye: Zog on a cane stool holding a cup in both hands, Dadi smiling with her cup behind him, ray gun on the floor, UFO and saris behind. Zog's face in frame 0 still reads stern (angry brows) rather than the requested happy tears and big smile — later frames not yet checked. AUDIO NOT VERIFIED.",
+      "insertedAs": "Video layer on a new blank scene added at the end. Timeline 50.1 s."
+    }
+  },
+  "notes": [
+    "Did NOT click 'Request access' on the tomato project — that would message another account owner.",
+    "Nothing generated, downloaded or published.",
+    "Operator slip: one click landed on the timeline 'New scene' button because the AI Video panel had closed, creating an extra blank scene 4; deleted it via Scene > Delete scene (empty, no content lost, no generation spent).",
+    "Deleted the stray Zog anchor 'Image' layer on scene 1; the anchor still exists as the first tile in the Image panel history.",
+    "Export/download not done — needs the user's yes.",
+    "Captions: auto-captions were generated in Hindi script, then all deleted at the user's request (Captions > more > Delete all captions). English subtitles were attempted as text boxes but the canvas editor did not accept typed text; two empty text boxes created while trying were deleted.",
+    "Stopped once at the user's request mid-assembly, then resumed with 'no captions'.",
+    "Export/download not done — needs the user's yes."
+  ],
+  "assembly": "Order in Vids: s00, s01, s02, s02b, s03, s04. Each scene holds only its Video layer (checked scene by scene after cleanup). No captions, music, text or end card.",
+  "quota": {
+    "unit": "seconds of Vids video generation per month",
+    "usedThisRun": 80,
+    "breakdown": "30 (s01-s03) + 30 (s00, s02b, s04) + 20 (revised s01, s02), 0 failed retries",
+    "remainingAfterRun": "unknown — UI shows no balance"
+  },
+  "audioEvidence": {
+    "method": "Vids auto-transcript (Captions > Edit transcript) read from the generated audio, 2026-11-05. Proves the words were spoken; says nothing about voice quality or lip sync.",
+    "s01": "full line transcribed in Devanagari — matches",
+    "s02": "only the tail transcribed ('aur ye davat bol raha hai'); the opening 'Yeh kya ho raha hai? Main dhamki de raha hoon' was not captured — unconfirmed",
+    "s02b": "'Itni door se aaye ho, bhookh lagi hogi na?' transcribed; 'Baitho yahan' not captured",
+    "s03": "full line transcribed — matches",
+    "s04": "full line transcribed — matches; late frames show Zog wide-eyed and smiling as he speaks (frame 0 looks stern)",
+    "s00": "no speech, as designed"
+  },
+  "revisions": [
+    {
+      "date": "2026-11-05",
+      "why": "User found s02 confusing: Zog seemed to tell the humans about an attack and then ask why he said 'dawat' — the line was aimed at nobody and never stated what he meant to say.",
+      "s01": "regenerated (1 attempt): badge flickers/sparks with each word, Zog glances at it at the end. Frames checked: furious Zog, ray gun raised, mouth open, badge glowing teal, Dadi watering behind. Badge sparks and the final glance NOT clearly visible in sampled still frames.",
+      "s02": "regenerated (1 attempt), new line (15 words): \"Translator! Maine kaha tha 'sab jhuk jao', tumne bola 'dawat'! Yeh kya kar rahe ho?!\" Frames checked: Zog points a finger at the badge, then shouts, outraged, mouth open.",
+      "swap": "each new clip replaced the old one in place (select scene > click its Video layer > panel button reads Replace). Timeline length unchanged at 1:00.2.",
+      "audio": "NOT verified for either new clip — captions were deliberately not re-added (user declined), and 'Edit with transcript' did not open a transcript from the browser tool."
+    }
+  ]
+}

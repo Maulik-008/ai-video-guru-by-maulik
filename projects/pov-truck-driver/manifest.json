@@ -1,0 +1,49 @@
+{
+  "slug": "pov-truck-driver",
+  "state": "done — 3 shots generated and assembled in Vids (30.1 s, 9:16); no captions; audio NOT verified; NOT exported; project still named 'Untitled video'",
+  "ingredients": {
+    "chhotu-khalasi": "done — 1 attempt, accepted",
+    "truck-cabin": "done — 2 attempts (plate v1 had painted lettering incl. what looked like a real truck brand name, so it was regenerated once with 'no letters, no words, no brand logos'; v2 accepted and used for all shots)"
+  },
+  "shots": {
+    "s01": {
+      "state": "done",
+      "attempts": 1,
+      "seconds": 10,
+      "ingredients": "@image1 Chhotu, @image2 cabin",
+      "check": "frames 3 s / 6 s / 9 s verified by eye: Chhotu leans into the lens grinning, orange tee, red-checked gamchha, thin moustache; cabin with Ganesh idol, charm, tassels; warm sunrise. First frame is the blanket and windshield only. AUDIO NOT VERIFIED.",
+      "insertedAs": "Insert into the first blank scene"
+    },
+    "s02": {
+      "state": "done",
+      "attempts": 1,
+      "seconds": 10,
+      "ingredients": "@image1 Chhotu, @image2 cabin",
+      "check": "frames verified: Chhotu wide-eyed, gesturing with one arm in the cabin, tiny UFO in the sky through the windshield. The toll booth/barrier is NOT clearly visible — the 'toll' context rests on his line and the barrier sound. AUDIO NOT VERIFIED.",
+      "insertedAs": "Insert into a new blank scene after scene 1"
+    },
+    "s03": {
+      "state": "done",
+      "attempts": 1,
+      "seconds": 10,
+      "ingredients": "@image1 cabin, @image2 Chhotu",
+      "check": "frames verified: night cabin, phone glowing on the dashboard with a smiling woman's photo, Chhotu asleep and snoring, starry sky with the tiny UFO, a green highway sign. AUDIO NOT VERIFIED (the wife's line is voice-only from the phone).",
+      "insertedAs": "Insert into a new blank scene after scene 2"
+    }
+  },
+  "notes": [
+    "Extension disconnected once mid-run (after the first cabin-plate prompt was sent); on reconnect the plate was already in the Image panel history.",
+    "Look: Chhotu reads as semi-realistic 3D in some frames rather than strongly Pixar-stylised.",
+    "No captions added (user preference). The 'POV:' title is for the user to add in Instagram — the first 2 s of s01 are only a blanket/windshield view, so there is room for it.",
+    "Export/download not done — needs the user's yes."
+  ],
+  "tool": "google-vids",
+  "vidsProject": "https://docs.google.com/videos/d/1xp3UMNn1hBKiU7f7Q0tsGCWgQ4NCRTISjzim66EFohk/edit",
+  "vidsProjectNote": "new blank PORTRAIT (9:16) project, untitled; created 2026-11-05 via Start a new video > Portrait > Blank video",
+  "quota": {
+    "unit": "seconds of Vids video generation per month",
+    "usedThisRun": 30,
+    "remainingAfterRun": "unknown — UI shows no balance",
+    "note": "0 retries; 2 free images for the cabin plate (1 rejected)"
+  }
+}

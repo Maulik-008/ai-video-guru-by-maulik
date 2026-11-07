@@ -1,0 +1,27 @@
+{
+  "id": "kamla-dadi",
+  "name": "Kamla Dadi",
+  "created": "2026-11-05",
+  "frozen": true,
+  "description": "a plump 62-year-old Indian grandmother, Pixar-style 3D, round warm face with deep smile lines, silver hair in a neat bun, round gold-rimmed glasses, a small red bindi, wearing a green cotton saree with a yellow border and a pale blue cardigan",
+  "voice": "warm unhurried grandmotherly voice, Hindi, gently teasing, completely unbothered",
+  "signature": "tilts her head and smiles patiently when someone is shouting",
+  "props": [
+    "a steel chai kettle and steel cups (per shot, not part of the frozen description)"
+  ],
+  "doNot": [
+    "no dupatta over the head",
+    "no glasses removed",
+    "no English dialogue",
+    "never frightened"
+  ],
+  "images": {
+    "anchor": "see prompts.md — generated in Google Vids (Nano Banana), lives in the Vids project; no download offered by Vids",
+    "vidsProject": "https://docs.google.com/videos/d/1SU8Xgz5gSv9A9pfQXNCaHdpVo9A6mLUkyJUgDHJ0oZI/edit"
+  },
+  "appearsIn": [
+    "chai-invasion",
+    "pov-diwali-halwai"
+  ],
+  "notes": "The human side of Aliens vs Humans. She is never afraid of the aliens; she treats every invasion as a guest who has arrived hungry. Anchor accepted first try on 2026-11-05; reads slim rather than 'plump' (minor drift, see prompts.md)."
+}

@@ -1,0 +1,108 @@
+{
+  "slug": "pov-truck-driver",
+  "title": "POV: Truck Driver",
+  "series": "POV Routine (episode 1)",
+  "status": "generated and assembled in Vids 2026-11-05 (3 shots, 30.1 s); no captions; not exported",
+  "language": "hi-IN (Hindi, romanised)",
+  "aspect": "9:16",
+  "tool": "google-vids",
+  "model": "omni",
+  "resolution": "720p",
+  "shotSeconds": 10,
+  "styleLine": "Pixar-style 3D animation, soft cinematic lighting, shallow depth of field, no text, no captions, no subtitles.",
+  "cast": [
+    "chhotu-khalasi"
+  ],
+  "sets": [
+    "truck-cabin"
+  ],
+  "voiceOnly": {
+    "wife-on-phone": "warm teasing grown-up woman's voice, in Hindi, half-laughing and half-scolding"
+  },
+  "beats": [
+    "hook: POV wake-up — Chhotu shakes you awake, the truck wants chai",
+    "turn: toll booth — Chhotu haggles in disbelief at the price",
+    "payoff: night call — the wife asks when you're coming home, 'bas do din' again, Chhotu snoring"
+  ],
+  "shots": [
+    {
+      "id": "s01",
+      "seconds": 10,
+      "beat": "hook",
+      "set": "truck-cabin",
+      "ingredients": [
+        "cast/chhotu-khalasi (anchor)",
+        "sets/truck-cabin (plate)"
+      ],
+      "ingredientOrder": [
+        "chhotu-khalasi",
+        "truck-cabin"
+      ],
+      "camera": "first-person POV, waking on the sleeper berth, slight sway",
+      "speaker": "chhotu-khalasi",
+      "line": "Ustaad, uthiye! Subah ho gayi hai, truck ne bhi chai maangi hai!",
+      "words": 12,
+      "sfx": "a rustle of blankets, the cab creaking, a distant rooster",
+      "ambient": "a sleepy highway at dawn, trucks rumbling far away",
+      "prompt": "Using the provided images for Chhotu and the truck cabin, create a first-person POV shot from the eyes of a driver waking up on the sleeper berth, the camera looking up with a slight sway as it blinks awake. Chhotu, a lanky 19-year-old Indian truck helper, Pixar-style 3D, big expressive brown eyes, messy black hair, a thin wispy moustache, wearing a faded orange half-sleeve t-shirt and a red-checked gamchha around his neck, leans his face close to the lens and shakes the camera by the shoulder with a cheeky grin. The scene is the inside of a colourfully decorated Indian truck cabin, a dashboard crowded with a small Ganesh idol, a marigold garland, a steel chai glass and a tiffin box, a lime-and-chilli charm and red tassels swinging from the mirror, painted Bollywood-style stickers on the doors, a narrow sleeper berth behind the seats, a wide windshield showing a highway, lit by soft pink-gold sunrise through the windshield. Chhotu says in a fast bubbly squeaky young male voice, in Hindi, always excited and a little cheeky, \"Ustaad, uthiye! Subah ho gayi hai, truck ne bhi chai maangi hai!\" SFX: a rustle of blankets, the cab creaking, a distant rooster. Ambient noise: a sleepy highway at dawn, trucks rumbling far away. Pixar-style 3D animation, soft cinematic lighting, shallow depth of field, no text, no captions, no subtitles."
+    },
+    {
+      "id": "s02",
+      "seconds": 10,
+      "beat": "turn",
+      "set": "truck-cabin",
+      "ingredients": [
+        "cast/chhotu-khalasi (anchor)",
+        "sets/truck-cabin (plate)"
+      ],
+      "ingredientOrder": [
+        "chhotu-khalasi",
+        "truck-cabin"
+      ],
+      "camera": "first-person POV from the driver's seat, slow push-in to the passenger window",
+      "speaker": "chhotu-khalasi",
+      "line": "Bhaiya, teen sau?! Itne mein toh poora dhaba khareed lenge!",
+      "words": 10,
+      "sfx": "a toll barrier beeping, a coin clinking, a truck horn behind",
+      "ambient": "a busy highway toll plaza, engines idling, a horn honking behind",
+      "prompt": "Using the provided images for Chhotu and the truck cabin, create a first-person POV shot from the driver's seat with a slow push-in, looking across at the open passenger-side window and a toll booth beyond it. Chhotu, a lanky 19-year-old Indian truck helper, Pixar-style 3D, big expressive brown eyes, messy black hair, a thin wispy moustache, wearing a faded orange half-sleeve t-shirt and a red-checked gamchha around his neck, leans out of the passenger window toward the toll booth, waving both arms in disbelief. Beyond him a red-and-white toll barrier and a small booth glow in harsh midday sun, and a tiny silver UFO hangs far away in the distant sky. The scene is the inside of a colourfully decorated Indian truck cabin, a dashboard crowded with a small Ganesh idol, a marigold garland, a steel chai glass and a tiffin box, a lime-and-chilli charm and red tassels swinging from the mirror, painted Bollywood-style stickers on the doors, a narrow sleeper berth behind the seats, a wide windshield showing a highway. Chhotu says in a fast bubbly squeaky young male voice, in Hindi, always excited and a little cheeky, \"Bhaiya, teen sau?! Itne mein toh poora dhaba khareed lenge!\" SFX: a toll barrier beeping, a coin clinking, a truck horn behind. Ambient noise: a busy highway toll plaza, engines idling, a horn honking behind. Pixar-style 3D animation, soft cinematic lighting, shallow depth of field, no text, no captions, no subtitles."
+    },
+    {
+      "id": "s03",
+      "seconds": 10,
+      "beat": "payoff",
+      "set": "truck-cabin",
+      "ingredients": [
+        "sets/truck-cabin (plate)",
+        "cast/chhotu-khalasi (anchor)"
+      ],
+      "ingredientOrder": [
+        "truck-cabin",
+        "chhotu-khalasi"
+      ],
+      "camera": "first-person POV from the driver's seat at night, slow push-in to the dashboard",
+      "speaker": "wife-on-phone (voice only)",
+      "line": "Kab aa rahe ho? Pichhle hafte bhi tumne 'bas do din' bola tha!",
+      "words": 13,
+      "sfx": "the phone buzzing, a loud snore",
+      "ambient": "the truck engine humming at night, crickets outside",
+      "prompt": "Using the provided images for the truck cabin and Chhotu, create a first-person POV shot from the driver's seat at night with a slow push-in toward the dashboard. A smartphone on the dashboard glows and buzzes, its screen showing a smiling woman's photo, while headlights sweep the empty highway ahead through the windshield and a tiny silver UFO floats among the stars. On the passenger seat Chhotu, a lanky 19-year-old Indian truck helper, Pixar-style 3D, big expressive brown eyes, messy black hair, a thin wispy moustache, wearing a faded orange half-sleeve t-shirt and a red-checked gamchha around his neck, is fast asleep with his mouth open, snoring. The scene is the inside of a colourfully decorated Indian truck cabin, a dashboard crowded with a small Ganesh idol, a marigold garland, a steel chai glass and a tiffin box, a lime-and-chilli charm and red tassels swinging from the mirror, painted Bollywood-style stickers on the doors, a narrow sleeper berth behind the seats, a wide windshield showing a highway. A warm teasing grown-up woman's voice, in Hindi, half-laughing and half-scolding comes from the phone speaker, saying, \"Kab aa rahe ho? Pichhle hafte bhi tumne 'bas do din' bola tha!\" SFX: the phone buzzing, a loud snore. Ambient noise: the truck engine humming at night, crickets outside. Pixar-style 3D animation, soft cinematic lighting, shallow depth of field, no text, no captions, no subtitles."
+    }
+  ],
+  "assembly": {
+    "with": "google-vids",
+    "captions": false,
+    "music": null,
+    "endCard": null,
+    "note": "user adds the 'POV:' title in Instagram; leave 2 s of clear picture at the start"
+  },
+  "estimate": {
+    "clips": 3,
+    "secondsPerClip": 10,
+    "quotaSeconds": 30,
+    "withRetryAllowance": 38,
+    "balance": "unknown — Vids shows none",
+    "quotaUsed": 30
+  },
+  "vidsProject": "https://docs.google.com/videos/d/1xp3UMNn1hBKiU7f7Q0tsGCWgQ4NCRTISjzim66EFohk/edit"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mithai-shop",
+  "name": "Mithai shop (POV from behind the counter)",
+  "created": "2026-11-05",
+  "frozen": true,
+  "description": "the inside of a busy Indian sweet shop at Diwali, a long glass counter filled with trays of kaju katli, laddoo, jalebi and gulab jamun with shimmering silver foil, strings of marigold and fairy lights overhead, a giant steel kadhai bubbling behind the counter, a brass weighing scale, stacks of red sweet boxes tied with string, a framed picture of Goddess Lakshmi with a glowing diya",
+  "lighting": "varies per shot — 4 am diya and kadhai glow, evening fairy-light rush, 2 am dimmed lights",
+  "timeOfDay": "varies per shot",
+  "plate": "generated 2026-11-05 in Google Vids (Nano Banana), accepted first try; lives in the Vids project, see prompts.md",
+  "constraints": [
+    "POV camera: never show the shopkeeper's face or hands — a ladle or plate may enter from the bottom of the frame",
+    "one customer per shot (crowds drift); the packed shop is suggested by sound and blurred background",
+    "no letters, no words, no brand logos anywhere",
+    "a tiny silver UFO may appear in the night sky"
+  ],
+  "usedIn": [
+    "pov-diwali-halwai"
+  ],
+  "vidsProject": "https://docs.google.com/videos/d/1h_u5ISD1MvQ7iEEwn7chrTbnBAvz2XwbHiArGcrmldI/edit"
+}

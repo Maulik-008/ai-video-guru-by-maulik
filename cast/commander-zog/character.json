@@ -1,0 +1,26 @@
+{
+  "id": "commander-zog",
+  "name": "Commander Zog",
+  "created": "2026-11-05",
+  "frozen": true,
+  "description": "a small round Pixar-style 3D alien commander, smooth lavender-purple skin with a soft highlight, a big pear-shaped head, two large glossy yellow eyes with thick dark angry eyebrows, two bendy antennae with glowing orange tips, a silver chest plate with a small glowing round translator badge, short stubby arms and legs",
+  "voice": "deep booming villain voice, Hindi, that cracks into a flustered squeak when he is confused",
+  "signature": "taps and shakes the glowing translator badge on his chest",
+  "props": [
+    "a chunky silver ray gun (per shot, not part of the frozen description)"
+  ],
+  "doNot": [
+    "no clothes beyond the silver chest plate",
+    "no human hands",
+    "no third eye",
+    "no English dialogue"
+  ],
+  "images": {
+    "anchor": "see prompts.md — generated in Google Vids (Nano Banana), lives in the Vids project; no download offered by Vids",
+    "vidsProject": "https://docs.google.com/videos/d/1SU8Xgz5gSv9A9pfQXNCaHdpVo9A6mLUkyJUgDHJ0oZI/edit"
+  },
+  "appearsIn": [
+    "chai-invasion"
+  ],
+  "notes": "Allied cast member of the Aliens vs Humans series. Translator gag: his menacing intent is delivered through a broken translator, so the Hindi words that come out are always politer than he means. Anchor accepted first try on 2026-11-05."
+}

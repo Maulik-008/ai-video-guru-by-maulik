@@ -1,0 +1,165 @@
+{
+  "slug": "pov-diwali-halwai",
+  "title": "POV: Diwali Halwai",
+  "series": "POV Routine (episode 2)",
+  "status": "v2 generated and assembled in Vids 2026-11-05 (5 shots, 50.1 s); no captions; not exported",
+  "language": "hi-IN (Hindi, romanised)",
+  "aspect": "9:16",
+  "tool": "google-vids",
+  "model": "omni",
+  "resolution": "720p",
+  "shotSeconds": 10,
+  "styleLine": "Pixar-style 3D animation, soft cinematic lighting, shallow depth of field, no text, no captions, no subtitles.",
+  "cast": [
+    "mohan-halwai",
+    "kamla-dadi",
+    "guddi",
+    "ramu-chowkidar"
+  ],
+  "sets": [
+    "mithai-shop"
+  ],
+  "voiceOnly": {
+    "shopkeeper-you": "tired gravelly middle-aged man's voice, in Hindi, muttering with weary humour"
+  },
+  "timing": "Diwali 2026 is on 8 Nov by the assistant's calendar knowledge — check the local panchang; post before the rush ends",
+  "beats": [
+    "intro (new s00): Mohan halwai introduces the POV with a joke",
+    "hook: 4 am — kadhai, 'neend kisko aati hai'",
+    "turn: evening rush — Kamla Dadi samples everything, then orders half a kilo and a free sample",
+    "heart (new s02b): Guddi asks how much mithai her coins buy for mummy — 'Poora dabba, beta'",
+    "payoff: 2 am — Ramu the chowkidar asks for one laddoo; Happy Diwali"
+  ],
+  "shots": [
+    {
+      "id": "s00",
+      "seconds": 10,
+      "beat": "intro",
+      "set": "mithai-shop",
+      "ingredients": [
+        "cast/mohan-halwai (anchor)",
+        "sets/mithai-shop (plate)"
+      ],
+      "ingredientOrder": [
+        "mohan-halwai",
+        "mithai-shop"
+      ],
+      "camera": "medium close-up at counter height, slow push-in",
+      "speaker": "mohan-halwai",
+      "line": "Namaste! Main Mohan halwai. POV: Diwali ke din meri zindagi — jahan ghee bahut hai aur neend bilkul nahi!",
+      "words": 19,
+      "sfx": "ghee bubbling, a ladle clinking, distant firecrackers",
+      "ambient": "a festive sweet shop getting ready for the rush",
+      "prompt": "Using the provided images for Mohan Halwai and the sweet shop, create a medium close-up with a slow push-in, the camera at counter height. Mohan, a round-bellied 50-year-old Indian halwai, Pixar-style 3D, a big curled moustache, kind tired eyes with dark circles, wearing a white cotton kurta with the sleeves rolled up, a red-checked gamchha over one shoulder and a white cotton cap, stands at the glass counter with a huge bubbling kadhai steaming behind him, wipes his forehead with the gamchha and looks straight into the lens with a tired cheeky grin. The scene is the inside of a busy Indian sweet shop at Diwali, a long glass counter filled with trays of kaju katli, laddoo, jalebi and gulab jamun with shimmering silver foil, strings of marigold and fairy lights overhead, a giant steel kadhai bubbling behind the counter, a brass weighing scale, stacks of red sweet boxes tied with string, a framed picture of Goddess Lakshmi with a glowing diya, glowing with warm fairy lights. Mohan says in a warm gravelly middle-aged man's voice, in Hindi, tired but cheerful, full of dry humour, \"Namaste! Main Mohan halwai. POV: Diwali ke din meri zindagi — jahan ghee bahut hai aur neend bilkul nahi!\" SFX: ghee bubbling, a ladle clinking against the kadhai, distant firecrackers. Ambient noise: a festive sweet shop getting ready for the rush. Pixar-style 3D animation, soft cinematic lighting, shallow depth of field, no text, no captions, no subtitles.",
+      "state": "generated 2026-11-05"
+    },
+    {
+      "id": "s01",
+      "seconds": 10,
+      "beat": "hook",
+      "set": "mithai-shop",
+      "ingredients": [
+        "sets/mithai-shop (plate)"
+      ],
+      "ingredientOrder": [
+        "mithai-shop"
+      ],
+      "camera": "first-person POV behind the counter, slow push-in to the kadhai",
+      "speaker": "shopkeeper-you (off-screen voice)",
+      "line": "Subah ke chaar baje... Diwali mein neend kisko aati hai.",
+      "words": 10,
+      "sfx": "ghee bubbling, a ladle scraping the kadhai, a distant rooster",
+      "ambient": "a sleeping neighbourhood, a faint temple bell",
+      "prompt": "Using the provided image for the sweet shop, create a first-person POV shot from behind the counter at four in the morning, with a slow push-in toward the giant steel kadhai. A long steel ladle enters from the bottom of the frame and slowly stirs the bubbling kadhai, golden ghee and sugar syrup glowing in the light of a single brass diya, steam curling up, the street outside still dark beyond the half-open shutter. The scene is the inside of a busy Indian sweet shop at Diwali, a long glass counter filled with trays of kaju katli, laddoo, jalebi and gulab jamun with shimmering silver foil, strings of marigold and fairy lights overhead, a giant steel kadhai bubbling behind the counter, a brass weighing scale, stacks of red sweet boxes tied with string, a framed picture of Goddess Lakshmi with a glowing diya. An off-screen shopkeeper who is never seen says in a tired gravelly middle-aged man's voice, in Hindi, muttering with weary humour, \"Subah ke chaar baje... Diwali mein neend kisko aati hai.\" SFX: ghee bubbling, a ladle scraping the kadhai, a distant rooster. Ambient noise: a sleeping neighbourhood, a faint temple bell. Pixar-style 3D animation, soft cinematic lighting, shallow depth of field, no text, no captions, no subtitles.",
+      "state": "generated 2026-11-05, reused as-is"
+    },
+    {
+      "id": "s02",
+      "seconds": 10,
+      "beat": "turn",
+      "set": "mithai-shop",
+      "ingredients": [
+        "cast/kamla-dadi (anchor, regenerated from frozen description)",
+        "sets/mithai-shop (plate)"
+      ],
+      "ingredientOrder": [
+        "kamla-dadi",
+        "mithai-shop"
+      ],
+      "camera": "first-person POV behind the counter, slow push-in",
+      "speaker": "kamla-dadi",
+      "line": "Kaju katli thodi feeki hai, laddoo zyada meetha... theek hai, aadha kilo pack karo — aur ek sample free!",
+      "words": 19,
+      "sfx": "a brass scale clinking, shoppers murmuring, a distant firecracker",
+      "ambient": "a busy festival street, distant chatter and firecrackers",
+      "prompt": "Using the provided images for Kamla Dadi and the sweet shop, create a first-person POV shot from behind the counter at the busy evening rush, with a slow push-in. Kamla Dadi, a plump 62-year-old Indian grandmother, Pixar-style 3D, round warm face with deep smile lines, silver hair in a neat bun, round gold-rimmed glasses, a small red bindi, wearing a green cotton saree with a yellow border and a pale blue cardigan, leans over the glass counter toward the camera holding a small paper plate with a bite of sweet, squinting critically and then nodding with a sly smile. The scene is the inside of a busy Indian sweet shop at Diwali, a long glass counter filled with trays of kaju katli, laddoo, jalebi and gulab jamun with shimmering silver foil, strings of marigold and fairy lights overhead, a giant steel kadhai bubbling behind the counter, a brass weighing scale, stacks of red sweet boxes tied with string, a framed picture of Goddess Lakshmi with a glowing diya, glowing with warm fairy lights. Kamla Dadi says in a warm unhurried grandmotherly voice, in Hindi, gently teasing and completely unbothered, \"Kaju katli thodi feeki hai, laddoo zyada meetha... theek hai, aadha kilo pack karo — aur ek sample free!\" SFX: a brass scale clinking, shoppers murmuring far behind, a distant firecracker. Ambient noise: a busy festival street, distant chatter and firecrackers. Pixar-style 3D animation, soft cinematic lighting, shallow depth of field, no text, no captions, no subtitles.",
+      "state": "generated 2026-11-05, reused as-is"
+    },
+    {
+      "id": "s02b",
+      "seconds": 10,
+      "beat": "heart",
+      "set": "mithai-shop",
+      "ingredients": [
+        "cast/guddi (anchor)",
+        "sets/mithai-shop (plate)"
+      ],
+      "ingredientOrder": [
+        "guddi",
+        "mithai-shop"
+      ],
+      "camera": "first-person POV behind the counter, slow push-in",
+      "speaker": "guddi + shopkeeper-you (off-screen)",
+      "line": "Bhaiya, itne paise mein mummy ke liye kitni mithai aayegi? / Poora dabba, beta.",
+      "words": 14,
+      "sfx": "coins clinking on the glass, string being tied, a soft chime",
+      "ambient": "a busy festival street far behind",
+      "prompt": "Using the provided images for Guddi and the sweet shop, create a first-person POV shot from behind the counter at dusk, with a slow push-in. Guddi, a 7-year-old Indian girl, Pixar-style 3D, two black braids tied with red ribbons, big hopeful eyes, wearing a faded yellow frock and worn sandals, holding a small clay piggy bank, stands on tiptoe at the glass counter with her chin just above the glass, holding out a small handful of coins in her open palm and looking up with big hopeful eyes. The scene is the inside of a busy Indian sweet shop at Diwali, a long glass counter filled with trays of kaju katli, laddoo, jalebi and gulab jamun with shimmering silver foil, strings of marigold and fairy lights overhead, a giant steel kadhai bubbling behind the counter, a brass weighing scale, stacks of red sweet boxes tied with string, a framed picture of Goddess Lakshmi with a glowing diya, glowing with warm fairy lights. Guddi says in a tiny earnest child's voice, in Hindi, shy and hopeful, \"Bhaiya, itne paise mein mummy ke liye kitni mithai aayegi?\" Then an off-screen shopkeeper who is never seen says in a warm gravelly voice, in Hindi, softly, \"Poora dabba, beta.\" A red sweet box tied with string slides toward her across the glass from the bottom of the frame, and her eyes go wide with joy. SFX: coins clinking on the glass, string being tied, a soft chime. Ambient noise: a busy festival street far behind. Pixar-style 3D animation, soft cinematic lighting, shallow depth of field, no text, no captions, no subtitles.",
+      "state": "generated 2026-11-05"
+    },
+    {
+      "id": "s03",
+      "seconds": 10,
+      "beat": "payoff",
+      "set": "mithai-shop",
+      "ingredients": [
+        "cast/ramu-chowkidar (anchor)",
+        "sets/mithai-shop (plate)"
+      ],
+      "ingredientOrder": [
+        "ramu-chowkidar",
+        "mithai-shop"
+      ],
+      "camera": "first-person POV behind the half-closed shutter, slow push-in",
+      "speaker": "ramu-chowkidar",
+      "line": "Bhaiya, poore din mithai bechi... ek laddoo mere liye bhi? Happy Diwali!",
+      "words": 12,
+      "sfx": "a metal shutter rattling, a distant firework popping, a soft chime",
+      "ambient": "a quiet midnight street, crickets, distant fireworks",
+      "prompt": "Using the provided images for Ramu and the sweet shop, create a first-person POV shot from behind the counter at two in the morning, with a slow push-in. The shutter is half down, and outside in the quiet street Ramu, a sleepy 60-year-old Indian night watchman, Pixar-style 3D, a thick grey handlebar moustache, droopy kind eyes, wearing a khaki uniform and a grey woollen cap, a whistle on a cord around his neck, bends down to look in under the shutter with a sleepy smile, a bamboo lathi in one hand and a torch in the other. A small paper plate with a single laddoo is held out toward him from the bottom of the frame. Fireworks glow far away in the night sky, and a tiny silver UFO drifts among them. The scene is the inside of a busy Indian sweet shop at Diwali, a long glass counter filled with trays of kaju katli, laddoo, jalebi and gulab jamun with shimmering silver foil, strings of marigold and fairy lights overhead, a giant steel kadhai bubbling behind the counter, a brass weighing scale, stacks of red sweet boxes tied with string, a framed picture of Goddess Lakshmi with a glowing diya, now quiet with the lights dimmed. Ramu says in a slow sleepy warm elderly male voice, in Hindi, gently grateful, \"Bhaiya, poore din mithai bechi... ek laddoo mere liye bhi? Happy Diwali!\" SFX: a metal shutter rattling, a distant firework popping, a soft chime. Ambient noise: a quiet midnight street, crickets, distant fireworks. Pixar-style 3D animation, soft cinematic lighting, shallow depth of field, no text, no captions, no subtitles.",
+      "state": "generated 2026-11-05, reused as-is"
+    }
+  ],
+  "assembly": {
+    "with": "google-vids",
+    "captions": false,
+    "music": null,
+    "endCard": null,
+    "note": "user adds the 'POV:' title in Instagram; first 2 s of s01 are a dark kadhai close-up"
+  },
+  "estimate": {
+    "newClips": 2,
+    "secondsPerClip": 10,
+    "newQuotaSeconds": 20,
+    "withRetryAllowance": 25,
+    "reusedClips": 3,
+    "optional": "redo s03 (+10 s) to remove the bangled hand that appeared holding the plate",
+    "quotaUsedTotal": 50
+  },
+  "vidsProject": "https://docs.google.com/videos/d/1h_u5ISD1MvQ7iEEwn7chrTbnBAvz2XwbHiArGcrmldI/edit",
+  "version": "v2 — 50 s, 5 shots: added a visible halwai intro and a heart-touching scene; v1 (3 shots, 30 s) already exists in the Vids project",
+  "engagement": {
+    "captionSuggestion": "POV: Diwali par halwai ki life 🥹🍬 Tag us that one uncle/aunty who always asks for a free sample 😂",
+    "note": "user posts it; nothing is published by the assistant"
+  }
+}

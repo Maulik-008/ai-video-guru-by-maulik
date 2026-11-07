@@ -1,0 +1,75 @@
+{
+  "slug": "pov-diwali-halwai",
+  "state": "v2 done — 5 shots assembled in Vids (50.1 s, 9:16); no captions; audio NOT verified; NOT exported",
+  "ingredients": {
+    "ramu-chowkidar": "done — 1 attempt, accepted (khaki uniform, grey woollen cap, thick grey moustache, whistle, torch)",
+    "kamla-dadi": "done — regenerated from the frozen description in this project, 1 attempt, accepted; close to but not identical to the Chai Invasion anchor",
+    "mithai-shop": "done — 1 attempt, accepted (no lettering; a few faint silhouettes far in the background)",
+    "mohan-halwai": "done — 1 attempt, accepted (round belly, curled moustache, white kurta + cap, red gamchha)",
+    "guddi": "done — 1 attempt, accepted (two braids with red ribbons, yellow frock, clay piggy bank)"
+  },
+  "shots": {
+    "s01": {
+      "state": "done",
+      "attempts": 1,
+      "seconds": 10,
+      "ingredients": "@image1 mithai-shop",
+      "check": "frames at ~6 s and ~9 s verified by eye: pan across the counter to the steaming kadhai under the Lakshmi picture; a ladle stirs jalebi batter; no hands. Lighting reads warm/bright rather than the pitch-dark '4 am' asked for. AUDIO (off-screen muttering) NOT VERIFIED.",
+      "insertedAs": "Insert into the first blank scene"
+    },
+    "s02": {
+      "state": "done",
+      "attempts": 1,
+      "seconds": 10,
+      "ingredients": "@image1 Kamla Dadi, @image2 mithai-shop",
+      "check": "frames verified: Dadi leans on the glass counter holding a paper plate with a sweet, looking at the camera, speaking; marigolds, fairy lights, Lakshmi picture behind her. AUDIO NOT VERIFIED.",
+      "insertedAs": "Insert into a new blank scene after scene 1"
+    },
+    "s03": {
+      "state": "done",
+      "attempts": 1,
+      "seconds": 10,
+      "ingredients": "@image1 Ramu, @image2 mithai-shop",
+      "check": "frames verified: shutter half down, Ramu peers in with a flaming torch, a plate with one laddoo is held out to him. FLAW: a hand with a bangle appears holding the plate, breaking the 'no hands' POV rule. The tiny UFO and fireworks were not visible in the frames sampled. AUDIO NOT VERIFIED.",
+      "insertedAs": "Insert into a new blank scene after scene 2"
+    },
+    "s00": {
+      "state": "done",
+      "attempts": 1,
+      "seconds": 10,
+      "ingredients": "@image1 Mohan, @image2 mithai-shop",
+      "check": "frames at ~5 s and ~9 s verified by eye: Mohan at the counter, white cap + kurta, curled moustache, red gamchha, Lakshmi picture and fairy lights behind. The kadhai behind him is out of focus. Both sampled frames looked identical, so his movement (wiping his forehead) is not confirmed. AUDIO NOT VERIFIED.",
+      "insertedAs": "Insert into a blank scene after scene 1, then Scene > Move scene > to beginning"
+    },
+    "s02b": {
+      "state": "done",
+      "attempts": 1,
+      "seconds": 10,
+      "ingredients": "@image1 Guddi, @image2 mithai-shop",
+      "check": "frames verified: Guddi at the counter holding out a coin in her palm, mouth open mid-line, hopeful eyes; the last frame shows her smiling and holding the piggy bank with a red box tied with string on the counter in front of her. Matches the plan. The off-screen 'Poora dabba, beta.' and all audio NOT VERIFIED.",
+      "insertedAs": "Insert into a new blank scene after the Dadi scene"
+    }
+  },
+  "notes": [
+    "The new-project dialog's Portrait click closed the dialog on Landscape 16:9; fixed via the toolbar video-size menu > Portrait 9:16 before generating.",
+    "A classifier hiccup interrupted one click once; retried as-is and it worked.",
+    "No captions (user preference); 'POV:' title is for the user to add in Instagram.",
+    "Export/download not done — needs the user's yes.",
+    "Extension disconnected once mid-batch; the batch had in fact completed (Guddi's anchor was already in the Image panel), so nothing was repeated.",
+    "Not redone: the bangled hand in s03 (user chose 'Go: 2 new clips' only)."
+  ],
+  "vidsProject": "https://docs.google.com/videos/d/1h_u5ISD1MvQ7iEEwn7chrTbnBAvz2XwbHiArGcrmldI/edit",
+  "quota": {
+    "unit": "seconds of Vids video generation per month",
+    "usedThisRun": 50,
+    "breakdown": "30 s (v1: s01-s03) + 20 s (v2: s00, s02b)",
+    "remainingAfterRun": "unknown — UI shows no balance"
+  },
+  "order": [
+    "s00",
+    "s01",
+    "s02",
+    "s02b",
+    "s03"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mohan-halwai",
+  "name": "Mohan Halwai",
+  "created": "2026-11-05",
+  "frozen": true,
+  "description": "a round-bellied 50-year-old Indian halwai, Pixar-style 3D, a big curled moustache, kind tired eyes with dark circles, wearing a white cotton kurta with the sleeves rolled up, a red-checked gamchha over one shoulder and a white cotton cap",
+  "voice": "warm gravelly middle-aged man's voice, Hindi, tired but cheerful, full of dry humour",
+  "signature": "wipes his forehead with the gamchha and gives a tired cheeky grin",
+  "props": [
+    "a long steel ladle (per shot)"
+  ],
+  "doNot": [
+    "no beard",
+    "no apron",
+    "no English beyond 'POV'",
+    "never rude to customers — he is the heart of the reel"
+  ],
+  "images": {
+    "anchor": "see prompts.md — generated in Google Vids (Nano Banana), lives in the Vids project; no download offered",
+    "vidsProject": "https://docs.google.com/videos/d/1h_u5ISD1MvQ7iEEwn7chrTbnBAvz2XwbHiArGcrmldI/edit"
+  },
+  "appearsIn": [
+    "pov-diwali-halwai"
+  ],
+  "notes": "The shopkeeper whose eyes the POV episode is shot through. Seen on screen in the intro; his voice is also the off-screen 'you' in the POV shots."
+}

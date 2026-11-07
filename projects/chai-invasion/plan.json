@@ -1,0 +1,203 @@
+{
+  "slug": "chai-invasion",
+  "title": "Chai Invasion",
+  "status": "deeper cut assembled in Vids (6 shots, 60.2 s); s01+s02 revised 2026-11-05 for clarity; no captions by user choice; not exported",
+  "language": "hi-IN (Hindi, romanised like tomato-superstar)",
+  "aspect": "9:16",
+  "tool": "google-vids",
+  "styleLine": "Pixar-style 3D animation, soft cinematic lighting, shallow depth of field, no text, no captions, no subtitles.",
+  "cast": [
+    "commander-zog",
+    "kamla-dadi"
+  ],
+  "sets": [
+    "rooftop-dusk"
+  ],
+  "beats": [
+    "setup (new s00): Dadi hangs saris at dusk, the UFO descends and hovers — who and where, no dialogue",
+    "hook (s01): Zog beams down, threatens in a villain voice, the sweet Hindi words come out",
+    "turn (s02): Zog panics, shakes the translator badge — the audience learns it is broken",
+    "kindness (new s02b): Dadi sees a tired traveller, not an invader — pats a stool and tells him to sit",
+    "payoff (s03): chai first, attack later, and call the whole army",
+    "button (new s04): Zog, sincere but still in his villain voice, says he'll always be a fan of her chai"
+  ],
+  "shots": [
+    {
+      "id": "s00",
+      "seconds": 10,
+      "beat": "setup",
+      "set": "rooftop-dusk",
+      "ingredients": [
+        "cast/kamla-dadi (anchor)",
+        "sets/rooftop-dusk (plate)"
+      ],
+      "ingredientOrder": [
+        "kamla-dadi",
+        "rooftop-dusk"
+      ],
+      "camera": "wide establishing shot, slow crane-down",
+      "speaker": null,
+      "line": null,
+      "words": 0,
+      "sfx": "soft humming, a low alien hum building, saris fluttering in the breeze",
+      "ambient": "distant evening traffic and a far-off temple bell",
+      "joinToNext": "cut",
+      "state": "generated 2026-11-05",
+      "prompt": "Using the provided images for Kamla Dadi and the rooftop at dusk, create a wide establishing shot with a slow crane-down. Kamla Dadi, a plump 62-year-old Indian grandmother, Pixar-style 3D, round warm face with deep smile lines, silver hair in a neat bun, round gold-rimmed glasses, a small red bindi, wearing a green cotton saree with a yellow border and a pale blue cardigan, pins a colourful saree onto the clothesline, humming softly to herself, then pauses and looks up at the sky. High above her the round silver UFO descends slowly and hovers low, a soft blue glow washing over the terrace. The scene is an Indian terrace rooftop at golden-hour dusk, potted tulsi and marigold plants along the parapet, a clothesline of colourful saris, a small cane table with steel cups, a warm orange sky with a round silver UFO hovering low behind a water tank. SFX: soft humming, a low alien hum building, saris fluttering in the breeze. Ambient noise: distant evening traffic and a far-off temple bell. Pixar-style 3D animation, soft cinematic lighting, shallow depth of field, no text, no captions, no subtitles."
+    },
+    {
+      "id": "s01",
+      "seconds": 10,
+      "beat": "hook",
+      "set": "rooftop-dusk",
+      "ingredients": [
+        "cast/commander-zog (anchor)",
+        "cast/kamla-dadi (anchor)",
+        "sets/rooftop-dusk (plate)"
+      ],
+      "camera": "low-angle medium shot, slow push-in",
+      "speaker": "commander-zog",
+      "sfx": "a low alien hum, a soft beam fading out, a faint electric crackle from the badge with each word",
+      "ambient": "distant evening traffic and a far-off temple bell",
+      "joinToNext": "cut",
+      "prompt": "Using the provided images for Commander Zog, Kamla Dadi and the rooftop at dusk, create a low-angle medium shot with a slow push-in. Commander Zog, a small round Pixar-style 3D alien commander, smooth lavender-purple skin with a soft highlight, a big pear-shaped head, two large glossy yellow eyes with thick dark angry eyebrows, two bendy antennae with glowing orange tips, a silver chest plate with a small glowing round translator badge, short stubby arms and legs, stands on the rooftop parapet as a column of soft blue light fades out behind him, a chunky silver ray gun raised and aimed straight at the camera, his antennae glowing and his eyebrows furious, the glowing round translator badge on his chest flickering and sparking with every word he says. Behind him on the terrace, Kamla Dadi, a plump 62-year-old Indian grandmother, Pixar-style 3D, round warm face with deep smile lines, silver hair in a neat bun, round gold-rimmed glasses, a small red bindi, wearing a green cotton saree with a yellow border and a pale blue cardigan, calmly waters a marigold pot and tilts her head with a patient smile. At the very end of the shot Commander Zog glances down at the flickering badge with a puzzled frown. The scene is an Indian terrace rooftop at golden-hour dusk, potted tulsi and marigold plants along the parapet, a clothesline of colourful saris, a small cane table with steel cups, a warm orange sky with a round silver UFO hovering low behind a water tank. Commander Zog says in a deep booming villain voice, in Hindi, \"Prithvi walon! Main tumhe ek pyaari si dawat dene aaya hoon!\" SFX: a low alien hum, a soft beam fading out, a faint electric crackle from the badge with each word. Ambient noise: distant evening traffic and a far-off temple bell. Pixar-style 3D animation, soft cinematic lighting, shallow depth of field, no text, no captions, no subtitles.",
+      "line": "Prithvi walon! Main tumhe ek pyaari si dawat dene aaya hoon!",
+      "words": 11,
+      "ingredientOrder": [
+        "commander-zog",
+        "kamla-dadi",
+        "rooftop-dusk"
+      ],
+      "state": "generated 2026-11-05, reused as-is",
+      "previousPrompt": "Using the provided images for Commander Zog, Kamla Dadi and the rooftop at dusk, create a low-angle medium shot with a slow push-in. Commander Zog, a small round Pixar-style 3D alien commander, smooth lavender-purple skin with a soft highlight, a big pear-shaped head, two large glossy yellow eyes with thick dark angry eyebrows, two bendy antennae with glowing orange tips, a silver chest plate with a small glowing round translator badge, short stubby arms and legs, stands on the rooftop parapet as a column of soft blue light fades out behind him, a chunky silver ray gun raised and aimed straight at the camera, his antennae glowing and his eyebrows furious. Behind him on the terrace, Kamla Dadi, a plump 62-year-old Indian grandmother, Pixar-style 3D, round warm face with deep smile lines, silver hair in a neat bun, round gold-rimmed glasses, a small red bindi, wearing a green cotton saree with a yellow border and a pale blue cardigan, calmly waters a marigold pot and tilts her head with a patient smile. The scene is an Indian terrace rooftop at golden-hour dusk, potted tulsi and marigold plants along the parapet, a clothesline of colourful saris, a small cane table with steel cups, a warm orange sky with a round silver UFO hovering low behind a water tank. Commander Zog says in a deep booming villain voice, in Hindi, \"Prithvi walon! Main tumhe ek pyaari si dawat dene aaya hoon!\" SFX: a low alien hum, a soft beam fading out, one gentle temple gong. Ambient noise: distant evening traffic and a far-off temple bell. Pixar-style 3D animation, soft cinematic lighting, shallow depth of field, no text, no captions, no subtitles.",
+      "revision": "2026-11-05: badge flickers with each word, Zog glances at it at the end (sets up s02)"
+    },
+    {
+      "id": "s02",
+      "seconds": 10,
+      "beat": "turn",
+      "set": "rooftop-dusk",
+      "ingredients": [
+        "cast/commander-zog (anchor)",
+        "sets/rooftop-dusk (plate)"
+      ],
+      "camera": "close-up, quick push-in",
+      "speaker": "commander-zog",
+      "sfx": "electric crackle from the badge, a tiny squeak, a steel cup sliding along a table",
+      "ambient": "distant evening traffic and a far-off temple bell",
+      "joinToNext": "cut",
+      "prompt": "Using the provided images for Commander Zog and the rooftop at dusk, create a close-up shot with a quick push-in. Commander Zog, a small round Pixar-style 3D alien commander, smooth lavender-purple skin with a soft highlight, a big pear-shaped head, two large glossy yellow eyes with thick dark angry eyebrows, two bendy antennae with glowing orange tips, a silver chest plate with a small glowing round translator badge, short stubby arms and legs, jabs a finger at the glowing round translator badge on his silver chest plate and glares down at it, shouting at the badge, the badge sparking and flickering, his antennae drooping and his eyebrows knotted in outrage, the ray gun hanging forgotten at his side. Softly out of focus behind him is an Indian terrace rooftop at golden-hour dusk, potted tulsi and marigold plants along the parapet, a clothesline of colourful saris, a small cane table with steel cups, a warm orange sky with a round silver UFO hovering low behind a water tank. At the very end of the shot a steaming steel cup of chai slides into the edge of the frame. Commander Zog says to the badge in a deep booming villain voice, in Hindi, that cracks into a flustered squeak, \"Translator! Maine kaha tha 'sab jhuk jao', tumne bola 'dawat'! Yeh kya kar rahe ho?!\" SFX: electric crackle from the badge, a tiny squeak, a steel cup sliding along a table. Ambient noise: distant evening traffic and a far-off temple bell. Pixar-style 3D animation, soft cinematic lighting, shallow depth of field, no text, no captions, no subtitles.",
+      "line": "Translator! Maine kaha tha 'sab jhuk jao', tumne bola 'dawat'! Yeh kya kar rahe ho?!",
+      "words": 15,
+      "ingredientOrder": [
+        "commander-zog",
+        "rooftop-dusk"
+      ],
+      "state": "generated 2026-11-05, reused as-is",
+      "previousPrompt": "Using the provided images for Commander Zog and the rooftop at dusk, create a close-up shot with a quick push-in. Commander Zog, a small round Pixar-style 3D alien commander, smooth lavender-purple skin with a soft highlight, a big pear-shaped head, two large glossy yellow eyes with thick dark angry eyebrows, two bendy antennae with glowing orange tips, a silver chest plate with a small glowing round translator badge, short stubby arms and legs, jabs a finger at the glowing round translator badge on his silver chest plate and shakes it, the badge sparking and flickering, his antennae drooping and his eyebrows knotted in panic, the ray gun hanging forgotten at his side. Softly out of focus behind him is an Indian terrace rooftop at golden-hour dusk, potted tulsi and marigold plants along the parapet, a clothesline of colourful saris, a small cane table with steel cups, a warm orange sky with a round silver UFO hovering low behind a water tank. At the very end of the shot a steaming steel cup of chai slides into the edge of the frame. Commander Zog says in a deep booming villain voice, in Hindi, that cracks into a flustered squeak, \"Yeh kya ho raha hai? Main dhamki de raha hoon, aur yeh dawat bol raha hai!\" SFX: electric crackle from the badge, a tiny squeak, a steel cup sliding along a table. Ambient noise: distant evening traffic and a far-off temple bell. Pixar-style 3D animation, soft cinematic lighting, shallow depth of field, no text, no captions, no subtitles.",
+      "previousLine": "Yeh kya ho raha hai? Main dhamki de raha hoon, aur yeh dawat bol raha hai!",
+      "revision": "2026-11-05: Zog now shouts at the badge and says what he meant vs what it said (old line was addressed to nobody and confusing)"
+    },
+    {
+      "id": "s02b",
+      "seconds": 10,
+      "beat": "kindness",
+      "set": "rooftop-dusk",
+      "ingredients": [
+        "cast/kamla-dadi (anchor)",
+        "cast/commander-zog (anchor)",
+        "sets/rooftop-dusk (plate)"
+      ],
+      "ingredientOrder": [
+        "kamla-dadi",
+        "commander-zog",
+        "rooftop-dusk"
+      ],
+      "camera": "medium two-shot, gentle push-in",
+      "speaker": "kamla-dadi",
+      "line": "Itni door se aaye ho, bhookh lagi hogi na? Baitho yahan.",
+      "words": 11,
+      "sfx": "a cane stool scraping on the terrace floor, a quiet hum from the hovering UFO",
+      "ambient": "distant evening traffic and a far-off temple bell",
+      "joinToNext": "cut",
+      "state": "generated 2026-11-05",
+      "prompt": "Using the provided images for Kamla Dadi, Commander Zog and the rooftop at dusk, create a medium two-shot with a gentle push-in. Commander Zog, a small round Pixar-style 3D alien commander, smooth lavender-purple skin with a soft highlight, a big pear-shaped head, two large glossy yellow eyes with thick dark angry eyebrows, two bendy antennae with glowing orange tips, a silver chest plate with a small glowing round translator badge, short stubby arms and legs, stands stiffly in the foreground, the silver ray gun drooping at his side, his eyebrows uncertain and his antennae wilting. Kamla Dadi, a plump 62-year-old Indian grandmother, Pixar-style 3D, round warm face with deep smile lines, silver hair in a neat bun, round gold-rimmed glasses, a small red bindi, wearing a green cotton saree with a yellow border and a pale blue cardigan, pulls a cane stool out from the table and pats the seat with a patient, caring smile, looking up at him. The scene is an Indian terrace rooftop at golden-hour dusk, potted tulsi and marigold plants along the parapet, a clothesline of colourful saris, a small cane table with steel cups, a warm orange sky with a round silver UFO hovering low behind a water tank. Kamla Dadi says in a warm unhurried grandmotherly voice, in Hindi, gently teasing and completely unbothered, \"Itni door se aaye ho, bhookh lagi hogi na? Baitho yahan.\" SFX: a cane stool scraping on the terrace floor, a quiet hum from the hovering UFO. Ambient noise: distant evening traffic and a far-off temple bell. Pixar-style 3D animation, soft cinematic lighting, shallow depth of field, no text, no captions, no subtitles."
+    },
+    {
+      "id": "s03",
+      "seconds": 10,
+      "beat": "payoff",
+      "set": "rooftop-dusk",
+      "ingredients": [
+        "cast/kamla-dadi (anchor)",
+        "cast/commander-zog (anchor)",
+        "sets/rooftop-dusk (plate)"
+      ],
+      "camera": "medium two-shot, slow push-in, warm golden light",
+      "speaker": "kamla-dadi",
+      "sfx": "chai pouring into a steel cup, a ripple of tiny excited alien chirps from the UFO above",
+      "ambient": "distant evening traffic and a far-off temple bell",
+      "joinToNext": "cut",
+      "prompt": "Using the provided images for Kamla Dadi, Commander Zog and the rooftop at dusk, create a medium two-shot with a slow push-in, lit by warm golden light. Kamla Dadi, a plump 62-year-old Indian grandmother, Pixar-style 3D, round warm face with deep smile lines, silver hair in a neat bun, round gold-rimmed glasses, a small red bindi, wearing a green cotton saree with a yellow border and a pale blue cardigan, pours steaming chai from a steel kettle into a steel cup while looking at the camera with a warm unbothered smile. Beside her on a cane stool sits Commander Zog, a small round Pixar-style 3D alien commander, smooth lavender-purple skin with a soft highlight, a big pear-shaped head, two large glossy yellow eyes with thick dark angry eyebrows, two bendy antennae with glowing orange tips, a silver chest plate with a small glowing round translator badge, short stubby arms and legs, sipping chai with both stubby hands, the silver ray gun lying forgotten across his knees, his eyebrows soft and his antennae glowing gently. High behind them the round silver UFO hovers with its small windows lit. The scene is an Indian terrace rooftop at golden-hour dusk, potted tulsi and marigold plants along the parapet, a clothesline of colourful saris, a small cane table with steel cups, a warm orange sky with a round silver UFO hovering low behind a water tank. Kamla Dadi says in a warm unhurried grandmotherly voice, in Hindi, gently teasing and completely unbothered, \"Beta, hamla baad mein karna. Pehle chai pi lo, aur apni poori fauj ko bhi bula lo.\" SFX: chai pouring into a steel cup, a ripple of tiny excited alien chirps from the UFO above. Ambient noise: distant evening traffic and a far-off temple bell. Pixar-style 3D animation, soft cinematic lighting, shallow depth of field, no text, no captions, no subtitles.",
+      "line": "Beta, hamla baad mein karna. Pehle chai pi lo, aur apni poori fauj ko bhi bula lo.",
+      "words": 17,
+      "ingredientOrder": [
+        "kamla-dadi",
+        "commander-zog",
+        "rooftop-dusk"
+      ],
+      "state": "generated 2026-11-05, reused as-is"
+    },
+    {
+      "id": "s04",
+      "seconds": 10,
+      "beat": "button",
+      "set": "rooftop-dusk",
+      "ingredients": [
+        "cast/commander-zog (anchor)",
+        "cast/kamla-dadi (anchor)",
+        "sets/rooftop-dusk (plate)"
+      ],
+      "ingredientOrder": [
+        "commander-zog",
+        "kamla-dadi",
+        "rooftop-dusk"
+      ],
+      "camera": "medium close-up, slow push-in, warm golden light",
+      "speaker": "commander-zog",
+      "line": "Dadi... main hamesha aapki chai ka fan rahunga!",
+      "words": 8,
+      "sfx": "a steel cup clinking, a ripple of tiny happy alien chirps from the UFO above",
+      "ambient": "distant evening traffic and a far-off temple bell",
+      "joinToNext": null,
+      "state": "generated 2026-11-05",
+      "prompt": "Using the provided images for Commander Zog, Kamla Dadi and the rooftop at dusk, create a medium close-up with a slow push-in, lit by warm golden light. Commander Zog, a small round Pixar-style 3D alien commander, smooth lavender-purple skin with a soft highlight, a big pear-shaped head, two large glossy yellow eyes with thick dark angry eyebrows, two bendy antennae with glowing orange tips, a silver chest plate with a small glowing round translator badge, short stubby arms and legs, sits on a cane stool holding a steel cup of chai in both stubby hands, his eyes shining with happy tears and a huge proud smile on his face, the silver ray gun forgotten on the floor. Softly out of focus behind him, Kamla Dadi, a plump 62-year-old Indian grandmother, Pixar-style 3D, round warm face with deep smile lines, silver hair in a neat bun, round gold-rimmed glasses, a small red bindi, wearing a green cotton saree with a yellow border and a pale blue cardigan, sits smiling and sipping her own chai. The scene is an Indian terrace rooftop at golden-hour dusk, potted tulsi and marigold plants along the parapet, a clothesline of colourful saris, a small cane table with steel cups, a warm orange sky with a round silver UFO hovering low behind a water tank. Commander Zog says in a deep booming villain voice, in Hindi, \"Dadi... main hamesha aapki chai ka fan rahunga!\" SFX: a steel cup clinking, a ripple of tiny happy alien chirps from the UFO above. Ambient noise: distant evening traffic and a far-off temple bell. Pixar-style 3D animation, soft cinematic lighting, shallow depth of field, no text, no captions, no subtitles."
+    }
+  ],
+  "assembly": {
+    "with": "google-vids",
+    "captions": false,
+    "music": null,
+    "endCard": null,
+    "note": "6 scenes in order s00, s01, s02, s02b, s03, s04; captions declined by the user"
+  },
+  "estimate": {
+    "newClips": 3,
+    "secondsPerClip": 10,
+    "newQuotaSeconds": 30,
+    "withRetryAllowance": 38,
+    "reusedClips": 3,
+    "balance": "unknown — Vids shows no balance; a limit message stops the run",
+    "priorityIfQuotaRunsOut": [
+      "s02b",
+      "s04",
+      "s00"
+    ],
+    "quotaUsedTotal": 80
+  },
+  "model": "omni",
+  "resolution": "720p",
+  "shotSeconds": 10,
+  "vidsProject": "https://docs.google.com/videos/d/1SU8Xgz5gSv9A9pfQXNCaHdpVo9A6mLUkyJUgDHJ0oZI/edit",
+  "version": "deeper cut (60 s, 6 shots) — original 30 s cut (s01-s03) already exists in the Vids project"
+}

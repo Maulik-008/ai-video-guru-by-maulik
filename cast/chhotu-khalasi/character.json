@@ -1,0 +1,26 @@
+{
+  "id": "chhotu-khalasi",
+  "name": "Chhotu",
+  "created": "2026-11-05",
+  "frozen": true,
+  "description": "a lanky 19-year-old Indian truck helper, Pixar-style 3D, big expressive brown eyes, messy black hair, a thin wispy moustache, wearing a faded orange half-sleeve t-shirt and a red-checked gamchha around his neck",
+  "voice": "fast bubbly squeaky young male voice, Hindi, always excited and a little cheeky",
+  "signature": "leans in too close to the camera and flashes a big cheeky grin",
+  "props": [
+    "a steel chai glass (per shot)"
+  ],
+  "doNot": [
+    "no cap or helmet",
+    "no beard",
+    "no English dialogue",
+    "never calls the driver by name — always 'Ustaad'"
+  ],
+  "images": {
+    "anchor": "see prompts.md — generated in Google Vids (Nano Banana), lives in the Vids project; no download offered",
+    "vidsProject": "https://docs.google.com/videos/d/1xp3UMNn1hBKiU7f7Q0tsGCWgQ4NCRTISjzim66EFohk/edit"
+  },
+  "appearsIn": [
+    "pov-truck-driver"
+  ],
+  "notes": "The recurring helper of the POV series. The driver ('you') is the camera and is never seen. A tiny silver UFO appears in the sky of every episode as a series Easter egg, a nod to chai-invasion."
+}

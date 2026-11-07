@@ -1,0 +1,19 @@
+{
+  "id": "truck-cabin",
+  "name": "Truck cabin",
+  "created": "2026-11-05",
+  "frozen": true,
+  "description": "the inside of a colourfully decorated Indian truck cabin, a dashboard crowded with a small Ganesh idol, a marigold garland, a steel chai glass and a tiffin box, a lime-and-chilli charm and red tassels swinging from the mirror, painted Bollywood-style stickers on the doors, a narrow sleeper berth behind the seats, a wide windshield showing a highway",
+  "lighting": "varies per shot — dawn pink-gold, harsh midday, night dashboard glow",
+  "timeOfDay": "varies per shot",
+  "plate": "generated 2026-11-05 in Google Vids (Nano Banana): driver's-seat POV, v2 accepted (v1 rejected for painted lettering/brand name); lives in the Vids project, see prompts.md",
+  "constraints": [
+    "POV camera: never show the driver's face or hands",
+    "no real truck brand names or logos",
+    "a tiny silver UFO far in the sky outside is allowed in any shot"
+  ],
+  "usedIn": [
+    "pov-truck-driver"
+  ],
+  "vidsProject": "https://docs.google.com/videos/d/1xp3UMNn1hBKiU7f7Q0tsGCWgQ4NCRTISjzim66EFohk/edit"
+}

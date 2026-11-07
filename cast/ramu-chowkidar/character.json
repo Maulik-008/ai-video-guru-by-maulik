@@ -1,0 +1,25 @@
+{
+  "id": "ramu-chowkidar",
+  "name": "Ramu Chowkidar",
+  "created": "2026-11-05",
+  "frozen": true,
+  "description": "a sleepy 60-year-old Indian night watchman, Pixar-style 3D, a thick grey handlebar moustache, droopy kind eyes, wearing a khaki uniform and a grey woollen cap, a whistle on a cord around his neck",
+  "voice": "slow sleepy warm elderly male voice, Hindi, gently grateful",
+  "signature": "yawns and gives a two-finger salute",
+  "props": [
+    "a bamboo lathi and a torch (per shot)"
+  ],
+  "doNot": [
+    "no gun",
+    "no helmet",
+    "no English dialogue beyond 'Happy Diwali'"
+  ],
+  "images": {
+    "anchor": "see prompts.md — generated in Google Vids (Nano Banana), lives in the Vids project; no download offered",
+    "vidsProject": "https://docs.google.com/videos/d/1h_u5ISD1MvQ7iEEwn7chrTbnBAvz2XwbHiArGcrmldI/edit"
+  },
+  "appearsIn": [
+    "pov-diwali-halwai"
+  ],
+  "notes": "Night watchman of the mithai-shop street; recurring night-time cameo for POV episodes."
+}

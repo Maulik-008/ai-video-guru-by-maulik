@@ -1,0 +1,24 @@
+{
+  "id": "guddi",
+  "name": "Guddi",
+  "created": "2026-11-05",
+  "frozen": true,
+  "description": "a 7-year-old Indian girl, Pixar-style 3D, two black braids tied with red ribbons, big hopeful eyes, wearing a faded yellow frock and worn sandals, holding a small clay piggy bank",
+  "voice": "tiny earnest child's voice, Hindi, shy and hopeful",
+  "signature": "stands on tiptoe so her chin is just above the counter",
+  "props": [
+    "a handful of coins (per shot)"
+  ],
+  "doNot": [
+    "no sad or crying look — hopeful, not pitiful",
+    "no English dialogue"
+  ],
+  "images": {
+    "anchor": "see prompts.md — generated in Google Vids (Nano Banana), lives in the Vids project; no download offered",
+    "vidsProject": "https://docs.google.com/videos/d/1h_u5ISD1MvQ7iEEwn7chrTbnBAvz2XwbHiArGcrmldI/edit"
+  },
+  "appearsIn": [
+    "pov-diwali-halwai"
+  ],
+  "notes": "The heart of the Diwali reel: she brings coins for her mother's mithai."
+}
