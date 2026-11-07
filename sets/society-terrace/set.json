@@ -1,0 +1,18 @@
+{
+  "id": "society-terrace",
+  "name": "Society terrace",
+  "created": "2026-11-07",
+  "frozen": false,
+  "description": "a flat concrete rooftop terrace of an Indian apartment block, a large black plastic water tank on a stand, clotheslines with colourful saris and towels, a few potted plants, a plastic chair, a stair-door in the corner, a hazy blue-white sky",
+  "lighting": "bright daylight with soft shadows",
+  "timeOfDay": "day",
+  "plate": "not yet generated. Generate in Gemini using prompts.md and accept one.",
+  "constraints": [
+    "no crowds",
+    "no readable text",
+    "the water tank is blank black plastic"
+  ],
+  "usedIn": [
+    "gadbad-grah:e04,e07"
+  ]
+}

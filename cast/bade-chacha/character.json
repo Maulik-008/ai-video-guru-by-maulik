@@ -1,0 +1,23 @@
+{
+  "id": "bade-chacha",
+  "name": "Bade Chacha",
+  "created": "2026-11-07",
+  "frozen": false,
+  "description": "an elderly Pixar-style 3D alien emperor with a very large wrinkled head and a small frail body, deep wrinkles, a drooping white handlebar moustache of glowing feelers, tiny round spectacles, a ruby-red gem on his wrinkled forehead, a permanently disappointed frown, a heavy maroon robe with gold trim",
+  "voice": "slow raspy elderly voice, Hindi, tired and disappointed",
+  "signature": "raises one wrinkled eyebrow and asks 'Result aaya?'",
+  "props": [],
+  "doNot": [
+    "no crown",
+    "no weapon",
+    "no English dialogue",
+    "never shouts except 'Order! Order!'"
+  ],
+  "images": {
+    "anchor": "not yet generated. Generate in Gemini using prompts.md, accept one, then set frozen to true."
+  },
+  "appearsIn": [
+    "gadbad-grah:e00,p1,p2,p3,e05,e10"
+  ],
+  "notes": "Solid and seated on his golden throne on Gadbad (P1 to P3). On Earth (E00, E05, E10) he only appears as a flickering green hologram, head and shoulders: add 'shown as a flickering green hologram, head and shoulders only' to those shot prompts, not to the frozen description. Not evil: a proud uncle with a bad plan. He installed Mausi on the ship and knows who she is."
+}

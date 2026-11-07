@@ -1,0 +1,27 @@
+{
+  "id": "dhamaka",
+  "name": "Commander Dhamaka",
+  "created": "2026-11-07",
+  "frozen": false,
+  "description": "a short round pumpkin-shaped Pixar-style 3D alien commander, glossy orange skin, a large forehead with a glowing ruby-red gem in the centre, two small furious black eyes under thick bushy eyebrows, two long curly whisker-feelers curling upward like a filmi villain's moustache, a black cape with a gold border, stubby legs and tiny hands",
+  "voice": "booming theatrical filmi-villain baritone, Hindi, that cracks into a flustered squeak when he is embarrassed",
+  "signature": "spreads both arms wide and shouts 'Ab hoga DHAMAKA!', then nothing happens",
+  "props": [
+    "a chunky silver ray gun (per shot, not part of the frozen description)",
+    "a phone (E07 only)"
+  ],
+  "doNot": [
+    "no hat or helmet (except the mind-control helmet-cannon in E08)",
+    "no extra eyes",
+    "no human hands",
+    "no English dialogue beyond 'Good Morning' and 'delete'",
+    "never insults Chintu or Bhondu with level-2 words"
+  ],
+  "images": {
+    "anchor": "not yet generated. Generate in Gemini using prompts.md, accept one, then set frozen to true."
+  },
+  "appearsIn": [
+    "gadbad-grah:e00-e14,p2,p3"
+  ],
+  "notes": "Gem colour is the status bar: red = angry and powerful, pink = happy and weak, blue-white = calm and truly powerful (E14 only). Describe the gem colour in every prompt."
+}

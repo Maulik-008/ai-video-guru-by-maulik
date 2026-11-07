@@ -1,0 +1,27 @@
+{
+  "id": "chintu",
+  "name": "Chintu",
+  "created": "2026-11-07",
+  "frozen": false,
+  "description": "a skinny 12-year-old Indian boy, Pixar-style 3D, spiky short black hair, a big cheeky grin with a gap between his front teeth, an oversized white school shirt with the sleeves rolled up, blue shorts, scuffed sandals, a pencil behind one ear",
+  "voice": "fast cheeky young boy's voice, Hindi, confident and all business",
+  "signature": "holds out an open palm like a shopkeeper and says 'Business ki baat hai'",
+  "props": [
+    "a ledger notebook (per shot)",
+    "chalk (E11)",
+    "a phone with a QR code (E02)"
+  ],
+  "doNot": [
+    "no school bag",
+    "no sad or crying look",
+    "no English dialogue",
+    "never insulted by level-2 words"
+  ],
+  "images": {
+    "anchor": "not yet generated. Generate in Gemini using prompts.md, accept one, then set frozen to true."
+  },
+  "appearsIn": [
+    "gadbad-grah:e02,e11"
+  ],
+  "notes": "Translator, broker and planner. He is the smartest person in the compound after Aunty."
+}

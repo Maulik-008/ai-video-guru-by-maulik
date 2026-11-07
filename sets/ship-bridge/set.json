@@ -1,0 +1,19 @@
+{
+  "id": "ship-bridge",
+  "name": "Ship bridge (inside the pressure cooker)",
+  "created": "2026-11-07",
+  "frozen": false,
+  "description": "the cramped round cabin inside a dented orange pressure-cooker spaceship, curved riveted steel walls, three mismatched cushioned seats, a steel console with big chunky knobs and a small framed portrait of a round kind orange alien woman wearing a glowing pink ring necklace, a dusty old CRT television in the corner playing a soap opera, a glowing pearl-white orb on a stand in the middle, a steam-whistle valve overhead, round portholes showing the outside",
+  "lighting": "warm tungsten interior with a soft pink glow from the orb",
+  "timeOfDay": "any (portholes show the time outside)",
+  "plate": "not yet generated. Generate in Gemini using prompts.md and accept one.",
+  "constraints": [
+    "no readable screens or labels",
+    "the TV screen is a soft coloured blur",
+    "the portrait is a small framed picture, never a large or readable image; keep her identical every time",
+    "Bade Chacha appears here only as a hologram projected above the console"
+  ],
+  "usedIn": [
+    "gadbad-grah:e00,e01,p3,e03,e05,e07,e08,e10,e14"
+  ]
+}

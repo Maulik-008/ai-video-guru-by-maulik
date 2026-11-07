@@ -1,0 +1,24 @@
+{
+  "id": "mausi",
+  "name": "Mausi (ship computer)",
+  "created": "2026-11-07",
+  "frozen": false,
+  "description": "a floating football-sized Pixar-style 3D pearl-white glowing orb with a soft pink ring of light around its middle that pulses when she speaks, no face, no limbs, a faint warm shimmer",
+  "voice": "warm unhurried nagging-aunty voice, Hindi, gently sarcastic, never rushed",
+  "signature": "the pink ring pulses faster when she is worried and glows gold when she is proud",
+  "props": [],
+  "doNot": [
+    "no face",
+    "no eyes",
+    "no limbs",
+    "no robotic voice",
+    "no English dialogue"
+  ],
+  "images": {
+    "anchor": "not yet generated. Generate in Gemini using prompts.md, accept one, then set frozen to true."
+  },
+  "appearsIn": [
+    "gadbad-grah:p3,e01,e03,e05,e06,e07,e08,e10,e12,e13,e14"
+  ],
+  "notes": "SECRET: she is Dhamaka's mother, uploaded into the ship about a year after she vanished. Chacha installed her (P3) and knows. Reveal in E14. Her pink ring echoes the pink ring necklace on the framed portrait of Dhamaka's mother (ship-bridge set). No face makes her cheap and safe to generate. Plant and payoff ledger: docs/series/gadbad-grah/BIBLE.md."
+}

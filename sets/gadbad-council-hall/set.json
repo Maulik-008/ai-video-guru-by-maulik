@@ -1,0 +1,19 @@
+{
+  "id": "gadbad-council-hall",
+  "name": "Gadbad council hall",
+  "created": "2026-11-07",
+  "frozen": false,
+  "description": "a huge round alien council hall on planet Gadbad, curved terraced seats of warm purple stone, a tall golden throne at the front, a giant old CRT-style television on the back wall glowing with blurry coloured soap operas, tall orange anger-crystal lamps along the walls that flicker dim, a brass bell on the throne's armrest, a wide arched window opening onto a launch pad where a dented orange pressure-cooker spaceship waits",
+  "lighting": "dim warm orange from the flickering crystal lamps, with a cool blue flicker from the television",
+  "timeOfDay": "day or night (state it in every prompt)",
+  "plate": "not yet generated. Generate in Gemini using prompts.md and accept one.",
+  "constraints": [
+    "no crowds on screen; the council is heard as off-screen voices and never filmed in a wide crowd shot",
+    "no readable text on the television or walls",
+    "two characters on screen at most",
+    "the lamps dim step by step in P1 only"
+  ],
+  "usedIn": [
+    "gadbad-grah:p1,p2,p3"
+  ]
+}

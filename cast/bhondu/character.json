@@ -1,0 +1,25 @@
+{
+  "id": "bhondu",
+  "name": "Lieutenant Bhondu",
+  "created": "2026-11-07",
+  "frozen": false,
+  "description": "a very tall skinny Pixar-style 3D alien, soft sky-blue skin, a long noodle neck, a small round head with huge gentle glossy brown eyes, one droopy antenna with a soft yellow tip, a loose grey uniform that is too short at the wrists and ankles, a shy permanent smile",
+  "voice": "slow sweet sing-song tenor, Hindi, innocent and sincere, always starts with 'Sir ji'",
+  "signature": "holds a samosa in both long hands, starts lines with 'Sir ji', and closes most reels by asking the viewer one open question",
+  "props": [
+    "a samosa (per shot)"
+  ],
+  "doNot": [
+    "never lies",
+    "no cape",
+    "no weapon",
+    "no English dialogue"
+  ],
+  "images": {
+    "anchor": "not yet generated. Generate in Gemini using prompts.md, accept one, then set frozen to true."
+  },
+  "appearsIn": [
+    "gadbad-grah:e00-e12,e14,p1,p2,p3"
+  ],
+  "notes": "The heart of the show and the reason Dhamaka learns to laugh. Keep him tall so the two-shot with Dhamaka reads at a glance. He delivers the 6-second closing question that ends most reels (the 'stinger'): an open-ended question to the viewer, never a request to comment a word, tag or share."
+}

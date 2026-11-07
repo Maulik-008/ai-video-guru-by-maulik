@@ -1,0 +1,28 @@
+{
+  "id": "sharma-aunty",
+  "name": "Sharma Aunty",
+  "created": "2026-11-07",
+  "frozen": false,
+  "description": "a sturdy 50-year-old Indian housing-society secretary, Pixar-style 3D, a sharp black bob with one grey streak, rectangular glasses on a beaded chain, a bold magenta block-print cotton kurta, dark red lipstick, one permanently raised eyebrow",
+  "voice": "fast sharp loud confident woman's voice, Hindi, zero fear, dry",
+  "signature": "raises one eyebrow and taps her clipboard",
+  "props": [
+    "a clipboard (always)",
+    "a steel thali (E08 and E13)",
+    "a steel mug of chai (E07, E10)"
+  ],
+  "doNot": [
+    "no saree (keep her distinct from Kamla Dadi)",
+    "no dupatta over the head",
+    "never frightened",
+    "never rude to children",
+    "no English dialogue beyond 'UPI', 'NOC', 'sticker', 'Good Morning', 'Happy Birthday'"
+  ],
+  "images": {
+    "anchor": "not yet generated. Generate in Gemini using prompts.md, accept one, then set frozen to true."
+  },
+  "appearsIn": [
+    "gadbad-grah:e00-e14"
+  ],
+  "notes": "The real hero. Her power is that she knows the rules and nobody else has read them. She always wins by procedure."
+}
