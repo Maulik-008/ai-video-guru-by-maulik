@@ -117,7 +117,7 @@ A **dented orange pressure cooker with legs**. It whistles ("seeeeti") whenever 
 All seven are Pixar-style 3D and each has a **draft** folder in `cast/` (descriptions are not frozen until their anchor image is accepted). Silhouette and colour differ so Veo cannot confuse them, and nobody resembles the earlier Chai Invasion cast (Commander Zog, Kamla Dadi).
 
 ### Commander Dhamaka: the hero who is a villain
-- **Look:** a short round pumpkin-shaped alien, glossy orange skin, a large forehead with a glowing ruby gem, small furious black eyes under thick bushy eyebrows, two long curly whisker-feelers like a filmi villain's moustache, a black cape with a gold border.
+- **Look:** a small round alien commander with smooth glossy orange-red skin like a polished toy, a big pear-shaped head with a glowing ruby gem in the middle of the forehead, large glossy black eyes under thick dark angry eyebrows, two long curly whisker-feelers like a filmi villain's moustache, a black cape with a gold border, short stubby arms and legs. (Redesigned 2026-11-07 to follow Commander Zog's alien shape; the first version looked like a pumpkin.)
 - **Want:** to prove himself to Bade Chacha and stop being the family failure.
 - **Wound:** his mother vanished a year ago. He carries her framed photo on the ship (P3) and talks to it.
 - **Need:** to learn that his strength is joy, not anger.

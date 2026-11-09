@@ -15,3 +15,6 @@ Do not edit the description. In Earth shots add: "shown as a flickering green ho
 1. Save it as `portrait.png` in this folder.
 2. Generate the 6-panel sheet from it, then tight ingredient crops (`ing-face.png`, `ing-full.png`).
 3. Set `"frozen": true` in `character.json`.
+
+## Result (2026-11-07)
+Generated first try in a fresh Gemini chat with the prompt above plus 'no letters'. Saved as `portrait.png` (full size) and `ing-full.png` (1280 px). Not frozen until the user approves.

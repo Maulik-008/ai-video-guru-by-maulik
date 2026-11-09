@@ -2,11 +2,11 @@
   "id": "ship-bridge",
   "name": "Ship bridge (inside the pressure cooker)",
   "created": "2026-11-07",
-  "frozen": false,
+  "frozen": true,
   "description": "the cramped round cabin inside a dented orange pressure-cooker spaceship, curved riveted steel walls, three mismatched cushioned seats, a steel console with big chunky knobs and a small framed portrait of a round kind orange alien woman wearing a glowing pink ring necklace, a dusty old CRT television in the corner playing a soap opera, a glowing pearl-white orb on a stand in the middle, a steam-whistle valve overhead, round portholes showing the outside",
   "lighting": "warm tungsten interior with a soft pink glow from the orb",
   "timeOfDay": "any (portholes show the time outside)",
-  "plate": "not yet generated. Generate in Gemini using prompts.md and accept one.",
+  "plate": "sets/ship-bridge/plate.png (full size), sets/ship-bridge/plate-ing.png (1280 px for uploads). Approved by the user 2026-11-07; frozen.",
   "constraints": [
     "no readable screens or labels",
     "the TV screen is a soft coloured blur",

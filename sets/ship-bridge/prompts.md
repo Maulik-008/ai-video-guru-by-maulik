@@ -5,3 +5,6 @@
 ```
 Generate exactly ONE image only, no storyboard, no extra images. Establishing medium shot, no people in frame, 9:16. Place: the cramped round cabin inside a dented orange pressure-cooker spaceship, curved riveted steel walls, three mismatched cushioned seats, a steel console with big chunky knobs and a small framed portrait of a round kind orange alien woman wearing a glowing pink ring necklace, a dusty old CRT television in the corner playing a soap opera, a glowing pearl-white orb on a stand in the middle, a steam-whistle valve overhead, round portholes showing the outside. Lighting: warm tungsten interior with a soft pink glow from the orb. Style: Pixar-style 3D animation, warm saturated colours, soft cinematic lighting, shallow depth of field, no text, no captions, no subtitles, no watermarks.
 ```
+
+## Result (2026-11-07)
+The first take (this prompt) came out gritty and photoreal. Redone once in the same chat with: 'redo it as a frame from a Disney Pixar animated feature: stylised smooth clean surfaces, rounded toy-like shapes, bright saturated colours, warm friendly look, not photoreal, no grime', plus the layout restated and 'Vertical 9:16'. That second take is the saved plate.

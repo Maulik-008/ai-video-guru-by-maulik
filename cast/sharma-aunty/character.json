@@ -2,7 +2,7 @@
   "id": "sharma-aunty",
   "name": "Sharma Aunty",
   "created": "2026-11-07",
-  "frozen": false,
+  "frozen": true,
   "description": "a sturdy 50-year-old Indian housing-society secretary, Pixar-style 3D, a sharp black bob with one grey streak, rectangular glasses on a beaded chain, a bold magenta block-print cotton kurta, dark red lipstick, one permanently raised eyebrow",
   "voice": "fast sharp loud confident woman's voice, Hindi, zero fear, dry",
   "signature": "raises one eyebrow and taps her clipboard",
@@ -19,7 +19,9 @@
     "no English dialogue beyond 'UPI', 'NOC', 'sticker', 'Good Morning', 'Happy Birthday'"
   ],
   "images": {
-    "anchor": "not yet generated. Generate in Gemini using prompts.md, accept one, then set frozen to true."
+    "anchor": "cast/sharma-aunty/portrait.png",
+    "ingredient": "cast/sharma-aunty/ing-full.png (centre-cropped square, 1024 px)",
+    "status": "approved by the user 2026-11-07; frozen"
   },
   "appearsIn": [
     "gadbad-grah:e00-e14"

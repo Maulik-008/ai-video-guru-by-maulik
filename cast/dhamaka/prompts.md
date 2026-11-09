@@ -1,15 +1,16 @@
-# dhamaka: exact prompts (draft, nothing generated yet)
+# dhamaka: exact prompts
 
-Series: Gadbad Grah. Style: Pixar-style 3D.
+Series: Gadbad Grah. Style: Pixar-style 3D. Frozen 2026-11-07.
 
-## Anchor image (Gemini, Nano Banana)
+## Anchor image v2 (Gemini, Nano Banana) — the accepted one
 
 ```
-Generate exactly ONE image only, no storyboard, no extra images. Pixar-style 3D character render, full body, standing, centred, plain neutral grey background, soft even studio lighting. Subject: a short round pumpkin-shaped Pixar-style 3D alien commander, glossy orange skin, a large forehead with a glowing ruby-red gem in the centre, two small furious black eyes under thick bushy eyebrows, two long curly whisker-feelers curling upward like a filmi villain's moustache, a black cape with a gold border, stubby legs and tiny hands. No text, no labels, no watermarks.
+Generate exactly ONE image only, no storyboard, no extra images. Pixar-style 3D character render, full body, standing, centred, plain neutral grey background, soft even studio lighting. Subject: a small round Pixar-style 3D alien commander with smooth glossy orange-red skin like a polished toy, a big pear-shaped head with a glowing ruby-red gem in the centre of the forehead, two large glossy black eyes under thick dark angry eyebrows, two long curly whisker-feelers curling upward like a filmi villain's moustache, a black cape with a gold border, short stubby arms and legs. No text, no letters, no labels, no watermarks.
 ```
+Accepted on the first generation. Saved as `portrait.png` (full) and `ing-full.png` (square crop, 1024 px).
 
-## After the anchor is accepted
-1. Save it as `portrait.png` in this folder.
-2. Generate the 6-panel sheet from it (prompt in `.claude/skills/video-guru/references/prompting.md`).
-3. Crop tight single-subject ingredients (`ing-face.png`, `ing-full.png`).
-4. Set `"frozen": true` in `character.json`. From then on the description is copied word for word and never edited.
+## v1 (rejected by the user): `portrait-v1-pumpkin.png`
+"a short round pumpkin-shaped ... glossy orange skin ..." came out as a literal pumpkin with a ridged body. Kept for the record only; do not use as an ingredient.
+
+## Gem variants (needed from E03)
+Pink-gem and blue-white-gem versions are not made yet. Make them from `portrait.png` ("same character exactly, the gem now glowing soft pink") when a reel needs them.

@@ -1,0 +1,52 @@
+{
+  "slug": "gadbad-e01-parking-mein-ufo",
+  "runStart": "2026-11-07T22:18:01+0530",
+  "outDir": "/Users/maulikjoshi/Desktop/Maulik Space/AI video Generation/ai-video-guru-by-maulik/projects/gadbad-e01-parking-mein-ufo/out",
+  "approved": {
+    "by": "user via AskUserQuestion",
+    "when": "2026-11-07T22:18:01+0530",
+    "ceilingCredits": 650,
+    "balanceAtStart": "1,050 Flow credits, resets Nov 15 (account looks Pro, not Ultra)"
+  },
+  "ingredients": {
+    "bhondu": "done (frozen, user approved 2026-11-07)",
+    "dhamaka": "done (frozen, user approved 2026-11-07)",
+    "mausi": "done (frozen, user approved 2026-11-07)",
+    "sharma-aunty": "done (frozen, user approved 2026-11-07)",
+    "ship-bridge": "done (frozen, user approved 2026-11-07)",
+    "society-parking": "done (frozen, user approved 2026-11-07)"
+  },
+  "shots": {
+    "s01": {
+      "state": "generating (test take 1, Omni 1.2 Flash, 8 s, 24 credits)",
+      "attempts": 1
+    },
+    "s02": {
+      "state": "pending"
+    },
+    "s03": {
+      "state": "pending"
+    },
+    "s04": {
+      "state": "pending"
+    },
+    "s05": {
+      "state": "pending"
+    },
+    "s06": {
+      "state": "pending"
+    },
+    "s07": {
+      "state": "pending"
+    },
+    "s08": {
+      "state": "pending"
+    }
+  },
+  "creditsSpent": 24,
+  "notes": [
+    "2026-11-07: Gemini images generated (6 characters, 2 plates); Chrome saves downloads to ~/Downloads/AI VIDEOS/. Both set plates needed one Pixar-style redo.",
+    "2026-11-07: user approved cast and plates; Dhamaka redesigned on the user's request (Zog-style alien shape) and frozen; plans rebuilt from the frozen descriptions.",
+    "2026-11-07 22:5x: model test take 1 queued in Flow via the agent panel. IMPORTANT: the agent's approval card was answered 'Always approve' without my intending it, which switched Agent settings to Confirm before generating = Never. I restored it to Always and verified. The 24 credits are the quoted test cost. Click Approve (not Always approve) on future cards and re-check the setting after each generation."
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "slug": "gadbad-e00-trailer",
+  "title": "Hamle Mein 12 Din Baaki",
+  "series": "gadbad-grah",
+  "status": "planned, not generated",
+  "language": "hi-IN (romanised Hinglish)",
+  "aspect": "9:16",
+  "model": "to be chosen after the model test: veo-3.1-lite (8 s, 10 credits) or omni-flash-1.2 (3 credits per second, 720p)",
+  "styleLine": "Pixar-style 3D animation, warm saturated colours, soft cinematic lighting, shallow depth of field, expressive faces, no text, no captions, no subtitles, no watermarks.",
+  "cast": [
+    "bade-chacha",
+    "bhondu",
+    "dhamaka",
+    "sharma-aunty"
+  ],
+  "sets": [
+    "ship-bridge",
+    "society-parking"
+  ],
+  "beats": [
+    "hook: Bade Chacha's hologram threatens Dhamaka in the first frame.",
+    "format: movie-trailer parody",
+    "story: A failed alien commander is sent to conquer Earth and lands in a housing-society parking lot."
+  ],
+  "shots": [
+    {
+      "id": "s01",
+      "seconds": 6,
+      "beat": "story",
+      "set": "ship-bridge",
+      "timeOfDay": "night",
+      "ingredients": [
+        "cast/bade-chacha/ing-full.png",
+        "sets/ship-bridge/plate-ing.png"
+      ],
+      "ingredientOrder": [
+        "bade-chacha",
+        "ship-bridge"
+      ],
+      "camera": "close-up, hologram flicker",
+      "speaker": "bade-chacha",
+      "line": "Prithvi jeet ke aana beta, warna ghar mein entry band.",
+      "words": 10,
+      "sfx": "static crackle, a low alien drone",
+      "ambient": "a low ship hum, a faint soap-opera murmur from an old TV, steel creaks",
+      "joinToNext": "cut",
+      "state": "pending",
+      "prompt": "Using the provided images for Bade Chacha and the Ship bridge, create this shot. Camera: close-up, hologram flicker. Bade Chacha, an elderly Pixar-style 3D alien emperor with a very large wrinkled head and a small frail body, deep wrinkles, a drooping white handlebar moustache of glowing feelers, tiny round spectacles, a ruby-red gem on his wrinkled forehead, a permanently disappointed frown, a heavy maroon robe with gold trim, shown as a flickering green hologram, head and shoulders only. Bade Chacha's huge green hologram head glares down and wags a finger at the camera. The scene is the cramped round cabin inside a dented orange pressure-cooker spaceship, curved riveted steel walls, three mismatched cushioned seats, a steel console with big chunky knobs and a small framed portrait of a round kind orange alien woman wearing a glowing pink ring necklace, a dusty old CRT television in the corner playing a soap opera, a glowing pearl-white orb on a stand in the middle, a steam-whistle valve overhead, round portholes showing the outside, with dark portholes and warm tungsten light. Bade Chacha says in a slow raspy elderly voice, Hindi, tired and disappointed, \"Prithvi jeet ke aana beta, warna ghar mein entry band.\" SFX: static crackle, a low alien drone. Ambient noise: a low ship hum, a faint soap-opera murmur from an old TV, steel creaks. Pixar-style 3D animation, warm saturated colours, soft cinematic lighting, shallow depth of field, expressive faces, no text, no captions, no subtitles, no watermarks."
+    },
+    {
+      "id": "s02",
+      "seconds": 6,
+      "beat": "story",
+      "set": "society-parking",
+      "timeOfDay": "dusk",
+      "ingredients": [
+        "cast/dhamaka/ing-full.png",
+        "sets/society-parking/plate-ing.png"
+      ],
+      "ingredientOrder": [
+        "dhamaka",
+        "society-parking"
+      ],
+      "camera": "low-angle hero shot",
+      "speaker": "dhamaka",
+      "line": "Prithvi walon! Ab hoga... DHAMAKA!",
+      "words": 5,
+      "sfx": "the ship's whistle blasts seeeeti, then a tiny sad pfft instead of a boom",
+      "ambient": "distant evening traffic and a faint temple bell",
+      "joinToNext": "cut",
+      "state": "pending",
+      "prompt": "Using the provided images for Commander Dhamaka and the Sundar Vihar Society parking lot, create this shot. Camera: low-angle hero shot. Commander Dhamaka, a small round Pixar-style 3D alien commander with smooth glossy orange-red skin like a polished toy, a big pear-shaped head with a glowing ruby-red gem in the centre of the forehead, two large glossy black eyes under thick dark angry eyebrows, two long curly whisker-feelers curling upward like a filmi villain's moustache, a black cape with a gold border, short stubby arms and legs. Dhamaka stands on top of the dented orange pressure-cooker ship, cape flapping, ray gun raised, gem blazing red. The scene is the parking lot of a middle-class Indian apartment society, rows of parked hatchbacks and scooters, a striped boom barrier and a small guard cabin, a plain blank painted entrance wall, a notice board covered in blank coloured papers, a first-floor balcony with potted plants overlooking the lot, a dented orange pressure-cooker-shaped spaceship with three legs wedged between two cars, at golden-hour dusk. Commander Dhamaka says in a booming theatrical filmi-villain baritone, Hindi, that cracks into a flustered squeak when he is embarrassed, \"Prithvi walon! Ab hoga... DHAMAKA!\" SFX: the ship's whistle blasts seeeeti, then a tiny sad pfft instead of a boom. Ambient noise: distant evening traffic and a faint temple bell. Pixar-style 3D animation, warm saturated colours, soft cinematic lighting, shallow depth of field, expressive faces, no text, no captions, no subtitles, no watermarks."
+    },
+    {
+      "id": "s03",
+      "seconds": 8,
+      "beat": "story",
+      "set": "society-parking",
+      "timeOfDay": "dusk",
+      "ingredients": [
+        "cast/sharma-aunty/ing-full.png",
+        "sets/society-parking/plate-ing.png"
+      ],
+      "ingredientOrder": [
+        "sharma-aunty",
+        "society-parking"
+      ],
+      "camera": "medium close-up, quick push-in",
+      "speaker": "sharma-aunty",
+      "line": "Ullu ke pathe! Hamla karne se pehle parking sticker dikhao!",
+      "words": 10,
+      "sfx": "a sharp whistle blow, a clipboard tapped",
+      "ambient": "distant evening traffic and a faint temple bell",
+      "joinToNext": "cut",
+      "state": "pending",
+      "prompt": "Using the provided images for Sharma Aunty and the Sundar Vihar Society parking lot, create this shot. Camera: medium close-up, quick push-in. Sharma Aunty, a sturdy 50-year-old Indian housing-society secretary, Pixar-style 3D, a sharp black bob with one grey streak, rectangular glasses on a beaded chain, a bold magenta block-print cotton kurta, dark red lipstick, one permanently raised eyebrow. Sharma Aunty marches into frame with her clipboard and points straight at the ship. The scene is the parking lot of a middle-class Indian apartment society, rows of parked hatchbacks and scooters, a striped boom barrier and a small guard cabin, a plain blank painted entrance wall, a notice board covered in blank coloured papers, a first-floor balcony with potted plants overlooking the lot, a dented orange pressure-cooker-shaped spaceship with three legs wedged between two cars, at golden-hour dusk. Sharma Aunty says in a fast sharp loud confident woman's voice, Hindi, zero fear, dry, \"Ullu ke pathe! Hamla karne se pehle parking sticker dikhao!\" SFX: a sharp whistle blow, a clipboard tapped. Ambient noise: distant evening traffic and a faint temple bell. Pixar-style 3D animation, warm saturated colours, soft cinematic lighting, shallow depth of field, expressive faces, no text, no captions, no subtitles, no watermarks."
+    },
+    {
+      "id": "s04",
+      "seconds": 6,
+      "beat": "closing question",
+      "set": "society-parking",
+      "timeOfDay": "dusk",
+      "ingredients": [
+        "cast/bhondu/ing-full.png",
+        "sets/society-parking/plate-ing.png"
+      ],
+      "ingredientOrder": [
+        "bhondu",
+        "society-parking"
+      ],
+      "camera": "medium close-up, straight to camera",
+      "speaker": "bhondu",
+      "line": "Baarah din baaki! Aap Aunty ke fine se kaise bachoge?",
+      "words": 10,
+      "sfx": "a bright little chime",
+      "ambient": "distant evening traffic and a faint temple bell",
+      "joinToNext": "cut",
+      "state": "pending",
+      "prompt": "Using the provided images for Lieutenant Bhondu and the Sundar Vihar Society parking lot, create this shot. Camera: medium close-up, straight to camera. Lieutenant Bhondu, a very tall skinny Pixar-style 3D alien, soft sky-blue skin, a long noodle neck, a small round head with huge gentle glossy brown eyes, one droopy antenna with a soft yellow tip, a loose grey uniform that is too short at the wrists and ankles, a shy permanent smile. Bhondu peeks out of the ship hatch holding a samosa and speaks to camera. The scene is the parking lot of a middle-class Indian apartment society, rows of parked hatchbacks and scooters, a striped boom barrier and a small guard cabin, a plain blank painted entrance wall, a notice board covered in blank coloured papers, a first-floor balcony with potted plants overlooking the lot, a dented orange pressure-cooker-shaped spaceship with three legs wedged between two cars, at golden-hour dusk. Lieutenant Bhondu says in a slow sweet sing-song tenor, Hindi, innocent and sincere, always starts with 'Sir ji', \"Baarah din baaki! Aap Aunty ke fine se kaise bachoge?\" SFX: a bright little chime. Ambient noise: distant evening traffic and a faint temple bell. Pixar-style 3D animation, warm saturated colours, soft cinematic lighting, shallow depth of field, expressive faces, no text, no captions, no subtitles, no watermarks."
+    }
+  ],
+  "assembly": {
+    "with": "vids",
+    "captions": true,
+    "music": "light dhol-and-tabla comic score under dialogue",
+    "titleCard": "HAMLE MEIN 12 DIN BAAKI",
+    "pinnedComment": "Aapki society mein sabse strict aunty kaun hain? Ek line mein batao.",
+    "note": "Veo cannot spell: title card and captions are added in Vids."
+  },
+  "estimate": {
+    "clips": 4,
+    "seconds": 26,
+    "retryAllowance": 1.25,
+    "lite": {
+      "creditsPerClip": 10,
+      "creditsTotal": 50
+    },
+    "omni720": {
+      "creditsPerSecond": 3,
+      "creditsTotal": 98
+    },
+    "note": "Google Flow help, read 2026-11-07. Account is on a Pro-level balance, not Ultra."
+  },
+  "version": 1
+}

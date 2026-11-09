@@ -2,8 +2,8 @@
   "id": "dhamaka",
   "name": "Commander Dhamaka",
   "created": "2026-11-07",
-  "frozen": false,
-  "description": "a short round pumpkin-shaped Pixar-style 3D alien commander, glossy orange skin, a large forehead with a glowing ruby-red gem in the centre, two small furious black eyes under thick bushy eyebrows, two long curly whisker-feelers curling upward like a filmi villain's moustache, a black cape with a gold border, stubby legs and tiny hands",
+  "frozen": true,
+  "description": "a small round Pixar-style 3D alien commander with smooth glossy orange-red skin like a polished toy, a big pear-shaped head with a glowing ruby-red gem in the centre of the forehead, two large glossy black eyes under thick dark angry eyebrows, two long curly whisker-feelers curling upward like a filmi villain's moustache, a black cape with a gold border, short stubby arms and legs",
   "voice": "booming theatrical filmi-villain baritone, Hindi, that cracks into a flustered squeak when he is embarrassed",
   "signature": "spreads both arms wide and shouts 'Ab hoga DHAMAKA!', then nothing happens",
   "props": [
@@ -18,10 +18,12 @@
     "never insults Chintu or Bhondu with level-2 words"
   ],
   "images": {
-    "anchor": "not yet generated. Generate in Gemini using prompts.md, accept one, then set frozen to true."
+    "anchor": "cast/dhamaka/portrait.png",
+    "ingredient": "cast/dhamaka/ing-full.png (centre-cropped square, 1024 px)",
+    "status": "approved by the user 2026-11-07; frozen"
   },
   "appearsIn": [
     "gadbad-grah:e00-e14,p2,p3"
   ],
-  "notes": "Gem colour is the status bar: red = angry and powerful, pink = happy and weak, blue-white = calm and truly powerful (E14 only). Describe the gem colour in every prompt."
+  "notes": "Gem colour is the status bar: red = angry and powerful, pink = happy and weak, blue-white = calm and truly powerful (E14 only). Describe the gem colour in every prompt. Redesigned 2026-11-07 at the user's request: the first version (portrait-v1-pumpkin.png) read as a pumpkin-man, so the body now follows the Commander Zog alien shape (smooth, round, pear-shaped head) while keeping Dhamaka's own marks: ruby gem, curly whisker-feelers, black-and-gold cape, orange-red skin."
 }

@@ -2,7 +2,7 @@
   "id": "chintu",
   "name": "Chintu",
   "created": "2026-11-07",
-  "frozen": false,
+  "frozen": true,
   "description": "a skinny 12-year-old Indian boy, Pixar-style 3D, spiky short black hair, a big cheeky grin with a gap between his front teeth, an oversized white school shirt with the sleeves rolled up, blue shorts, scuffed sandals, a pencil behind one ear",
   "voice": "fast cheeky young boy's voice, Hindi, confident and all business",
   "signature": "holds out an open palm like a shopkeeper and says 'Business ki baat hai'",
@@ -18,7 +18,9 @@
     "never insulted by level-2 words"
   ],
   "images": {
-    "anchor": "not yet generated. Generate in Gemini using prompts.md, accept one, then set frozen to true."
+    "anchor": "cast/chintu/portrait.png",
+    "ingredient": "cast/chintu/ing-full.png (centre-cropped square, 1024 px)",
+    "status": "approved by the user 2026-11-07; frozen"
   },
   "appearsIn": [
     "gadbad-grah:e02,e11"

@@ -1,0 +1,248 @@
+{
+  "slug": "gadbad-e02-namaste-ullu-ke-pathe",
+  "title": "Namaste, Ullu Ke Pathe",
+  "series": "gadbad-grah",
+  "status": "planned, not generated",
+  "language": "hi-IN (romanised Hinglish)",
+  "aspect": "9:16",
+  "model": "to be chosen after the model test: veo-3.1-lite (8 s, 10 credits) or omni-flash-1.2 (3 credits per second, 720p)",
+  "styleLine": "Pixar-style 3D animation, warm saturated colours, soft cinematic lighting, shallow depth of field, expressive faces, no text, no captions, no subtitles, no watermarks.",
+  "cast": [
+    "bhondu",
+    "chintu",
+    "dhamaka"
+  ],
+  "sets": [
+    "society-parking"
+  ],
+  "beats": [
+    "hook: Chintu whispers to camera that the aliens learned Hindi from TV, then ducks.",
+    "format: language-lesson skit",
+    "story: Chintu realises the aliens speak soap-opera Hindi, charges them for lessons, and Dhamaka cannot stop adding an insult to every greeting."
+  ],
+  "shots": [
+    {
+      "id": "s01",
+      "seconds": 8,
+      "beat": "story",
+      "set": "society-parking",
+      "timeOfDay": "day",
+      "ingredients": [
+        "cast/chintu/ing-full.png",
+        "cast/dhamaka/ing-full.png",
+        "sets/society-parking/plate-ing.png"
+      ],
+      "ingredientOrder": [
+        "chintu",
+        "dhamaka",
+        "society-parking"
+      ],
+      "camera": "close-up, Chintu peeking round a scooter, notebook in hand",
+      "speaker": "chintu",
+      "line": "Ye aliens ko Hindi TV ne sikhayi hai. Ab main inhe business sikhaunga!",
+      "words": 13,
+      "sfx": "a sneaky creak, heavy boots on gravel",
+      "ambient": "distant daytime traffic, birds, a faint scooter horn",
+      "joinToNext": "cut",
+      "state": "pending",
+      "prompt": "Using the provided images for Chintu and Commander Dhamaka and the Sundar Vihar Society parking lot, create this shot. Camera: close-up, Chintu peeking round a scooter, notebook in hand. Chintu, a skinny 12-year-old Indian boy, Pixar-style 3D, spiky short black hair, a big cheeky grin with a gap between his front teeth, an oversized white school shirt with the sleeves rolled up, blue shorts, scuffed sandals, a pencil behind one ear. Chintu whispers straight to camera, then ducks as Dhamaka's boots stomp past. Also in frame: Commander Dhamaka, a small round Pixar-style 3D alien commander with smooth glossy orange-red skin like a polished toy, a big pear-shaped head with a glowing ruby-red gem in the centre of the forehead, two large glossy black eyes under thick dark angry eyebrows, two long curly whisker-feelers curling upward like a filmi villain's moustache, a black cape with a gold border, short stubby arms and legs. The scene is the parking lot of a middle-class Indian apartment society, rows of parked hatchbacks and scooters, a striped boom barrier and a small guard cabin, a plain blank painted entrance wall, a notice board covered in blank coloured papers, a first-floor balcony with potted plants overlooking the lot, a dented orange pressure-cooker-shaped spaceship with three legs wedged between two cars, in bright daylight. Chintu says in a fast cheeky young boy's voice, Hindi, confident and all business, \"Ye aliens ko Hindi TV ne sikhayi hai. Ab main inhe business sikhaunga!\" SFX: a sneaky creak, heavy boots on gravel. Ambient noise: distant daytime traffic, birds, a faint scooter horn. Pixar-style 3D animation, warm saturated colours, soft cinematic lighting, shallow depth of field, expressive faces, no text, no captions, no subtitles, no watermarks."
+    },
+    {
+      "id": "s02",
+      "seconds": 8,
+      "beat": "story",
+      "set": "society-parking",
+      "timeOfDay": "day",
+      "ingredients": [
+        "cast/dhamaka/ing-full.png",
+        "cast/chintu/ing-full.png",
+        "sets/society-parking/plate-ing.png"
+      ],
+      "ingredientOrder": [
+        "dhamaka",
+        "chintu",
+        "society-parking"
+      ],
+      "camera": "low-angle medium shot",
+      "speaker": "dhamaka",
+      "line": "Insaan ke bachche! Le chal mujhe tere neta ke paas, nalayak!",
+      "words": 11,
+      "sfx": "a gun charge-up whine, a bird squawk",
+      "ambient": "distant daytime traffic, birds, a faint scooter horn",
+      "joinToNext": "cut",
+      "state": "pending",
+      "prompt": "Using the provided images for Commander Dhamaka and Chintu and the Sundar Vihar Society parking lot, create this shot. Camera: low-angle medium shot. Commander Dhamaka, a small round Pixar-style 3D alien commander with smooth glossy orange-red skin like a polished toy, a big pear-shaped head with a glowing ruby-red gem in the centre of the forehead, two large glossy black eyes under thick dark angry eyebrows, two long curly whisker-feelers curling upward like a filmi villain's moustache, a black cape with a gold border, short stubby arms and legs. Dhamaka looms over Chintu and points the ray gun at his nose. Also in frame: Chintu, a skinny 12-year-old Indian boy, Pixar-style 3D, spiky short black hair, a big cheeky grin with a gap between his front teeth, an oversized white school shirt with the sleeves rolled up, blue shorts, scuffed sandals, a pencil behind one ear. The scene is the parking lot of a middle-class Indian apartment society, rows of parked hatchbacks and scooters, a striped boom barrier and a small guard cabin, a plain blank painted entrance wall, a notice board covered in blank coloured papers, a first-floor balcony with potted plants overlooking the lot, a dented orange pressure-cooker-shaped spaceship with three legs wedged between two cars, in bright daylight. Commander Dhamaka says in a booming theatrical filmi-villain baritone, Hindi, that cracks into a flustered squeak when he is embarrassed, \"Insaan ke bachche! Le chal mujhe tere neta ke paas, nalayak!\" SFX: a gun charge-up whine, a bird squawk. Ambient noise: distant daytime traffic, birds, a faint scooter horn. Pixar-style 3D animation, warm saturated colours, soft cinematic lighting, shallow depth of field, expressive faces, no text, no captions, no subtitles, no watermarks."
+    },
+    {
+      "id": "s03",
+      "seconds": 8,
+      "beat": "story",
+      "set": "society-parking",
+      "timeOfDay": "day",
+      "ingredients": [
+        "cast/chintu/ing-full.png",
+        "sets/society-parking/plate-ing.png"
+      ],
+      "ingredientOrder": [
+        "chintu",
+        "society-parking"
+      ],
+      "camera": "medium close-up",
+      "speaker": "chintu",
+      "line": "Bhaiya, neta nahi, Aunty hain. Par pehle batao, aapne Hindi kahan se seekhi?",
+      "words": 13,
+      "sfx": "a cheeky tongue click",
+      "ambient": "distant daytime traffic, birds, a faint scooter horn",
+      "joinToNext": "cut",
+      "state": "pending",
+      "prompt": "Using the provided images for Chintu and the Sundar Vihar Society parking lot, create this shot. Camera: medium close-up. Chintu, a skinny 12-year-old Indian boy, Pixar-style 3D, spiky short black hair, a big cheeky grin with a gap between his front teeth, an oversized white school shirt with the sleeves rolled up, blue shorts, scuffed sandals, a pencil behind one ear. Chintu pushes the gun barrel aside with one finger and flashes his gap-toothed grin. The scene is the parking lot of a middle-class Indian apartment society, rows of parked hatchbacks and scooters, a striped boom barrier and a small guard cabin, a plain blank painted entrance wall, a notice board covered in blank coloured papers, a first-floor balcony with potted plants overlooking the lot, a dented orange pressure-cooker-shaped spaceship with three legs wedged between two cars, in bright daylight. Chintu says in a fast cheeky young boy's voice, Hindi, confident and all business, \"Bhaiya, neta nahi, Aunty hain. Par pehle batao, aapne Hindi kahan se seekhi?\" SFX: a cheeky tongue click. Ambient noise: distant daytime traffic, birds, a faint scooter horn. Pixar-style 3D animation, warm saturated colours, soft cinematic lighting, shallow depth of field, expressive faces, no text, no captions, no subtitles, no watermarks."
+    },
+    {
+      "id": "s04",
+      "seconds": 8,
+      "beat": "story",
+      "set": "society-parking",
+      "timeOfDay": "day",
+      "ingredients": [
+        "cast/dhamaka/ing-full.png",
+        "sets/society-parking/plate-ing.png"
+      ],
+      "ingredientOrder": [
+        "dhamaka",
+        "society-parking"
+      ],
+      "camera": "close-up, hand on heart",
+      "speaker": "dhamaka",
+      "line": "Pandrah saal serial dekhe hain! Saas, bahu, saazish... yahi toh jeevan hai!",
+      "words": 12,
+      "sfx": "a dramatic soap-opera sting",
+      "ambient": "distant daytime traffic, birds, a faint scooter horn",
+      "joinToNext": "cut",
+      "state": "pending",
+      "prompt": "Using the provided images for Commander Dhamaka and the Sundar Vihar Society parking lot, create this shot. Camera: close-up, hand on heart. Commander Dhamaka, a small round Pixar-style 3D alien commander with smooth glossy orange-red skin like a polished toy, a big pear-shaped head with a glowing ruby-red gem in the centre of the forehead, two large glossy black eyes under thick dark angry eyebrows, two long curly whisker-feelers curling upward like a filmi villain's moustache, a black cape with a gold border, short stubby arms and legs. Dhamaka clutches his chest in a melodramatic pose, whiskers trembling. The scene is the parking lot of a middle-class Indian apartment society, rows of parked hatchbacks and scooters, a striped boom barrier and a small guard cabin, a plain blank painted entrance wall, a notice board covered in blank coloured papers, a first-floor balcony with potted plants overlooking the lot, a dented orange pressure-cooker-shaped spaceship with three legs wedged between two cars, in bright daylight. Commander Dhamaka says in a booming theatrical filmi-villain baritone, Hindi, that cracks into a flustered squeak when he is embarrassed, \"Pandrah saal serial dekhe hain! Saas, bahu, saazish... yahi toh jeevan hai!\" SFX: a dramatic soap-opera sting. Ambient noise: distant daytime traffic, birds, a faint scooter horn. Pixar-style 3D animation, warm saturated colours, soft cinematic lighting, shallow depth of field, expressive faces, no text, no captions, no subtitles, no watermarks."
+    },
+    {
+      "id": "s05",
+      "seconds": 8,
+      "beat": "story",
+      "set": "society-parking",
+      "timeOfDay": "day",
+      "ingredients": [
+        "cast/chintu/ing-full.png",
+        "sets/society-parking/plate-ing.png"
+      ],
+      "ingredientOrder": [
+        "chintu",
+        "society-parking"
+      ],
+      "camera": "two-shot, Chintu waving his hands",
+      "speaker": "chintu",
+      "line": "Pehla lesson: jab milo, toh bolo namaste. Bas namaste. Aur kuch nahi.",
+      "words": 12,
+      "sfx": "muffled laughter",
+      "ambient": "distant daytime traffic, birds, a faint scooter horn",
+      "joinToNext": "cut",
+      "state": "pending",
+      "prompt": "Using the provided images for Chintu and the Sundar Vihar Society parking lot, create this shot. Camera: two-shot, Chintu waving his hands. Chintu, a skinny 12-year-old Indian boy, Pixar-style 3D, spiky short black hair, a big cheeky grin with a gap between his front teeth, an oversized white school shirt with the sleeves rolled up, blue shorts, scuffed sandals, a pencil behind one ear. Chintu counts on his fingers like a teacher. The scene is the parking lot of a middle-class Indian apartment society, rows of parked hatchbacks and scooters, a striped boom barrier and a small guard cabin, a plain blank painted entrance wall, a notice board covered in blank coloured papers, a first-floor balcony with potted plants overlooking the lot, a dented orange pressure-cooker-shaped spaceship with three legs wedged between two cars, in bright daylight. Chintu says in a fast cheeky young boy's voice, Hindi, confident and all business, \"Pehla lesson: jab milo, toh bolo namaste. Bas namaste. Aur kuch nahi.\" SFX: muffled laughter. Ambient noise: distant daytime traffic, birds, a faint scooter horn. Pixar-style 3D animation, warm saturated colours, soft cinematic lighting, shallow depth of field, expressive faces, no text, no captions, no subtitles, no watermarks."
+    },
+    {
+      "id": "s06",
+      "seconds": 8,
+      "beat": "story",
+      "set": "society-parking",
+      "timeOfDay": "day",
+      "ingredients": [
+        "cast/dhamaka/ing-full.png",
+        "sets/society-parking/plate-ing.png"
+      ],
+      "ingredientOrder": [
+        "dhamaka",
+        "society-parking"
+      ],
+      "camera": "close-up, Dhamaka trying very hard",
+      "speaker": "dhamaka",
+      "line": "Namaste... ullu ke pathe. Arre! Yeh muh se kyun nikalta hai?!",
+      "words": 11,
+      "sfx": "a squeaky voice crack, his whiskers twitch",
+      "ambient": "distant daytime traffic, birds, a faint scooter horn",
+      "joinToNext": "cut",
+      "state": "pending",
+      "prompt": "Using the provided images for Commander Dhamaka and the Sundar Vihar Society parking lot, create this shot. Camera: close-up, Dhamaka trying very hard. Commander Dhamaka, a small round Pixar-style 3D alien commander with smooth glossy orange-red skin like a polished toy, a big pear-shaped head with a glowing ruby-red gem in the centre of the forehead, two large glossy black eyes under thick dark angry eyebrows, two long curly whisker-feelers curling upward like a filmi villain's moustache, a black cape with a gold border, short stubby arms and legs. Dhamaka presses his palms together stiffly, then covers his own mouth in horror. The scene is the parking lot of a middle-class Indian apartment society, rows of parked hatchbacks and scooters, a striped boom barrier and a small guard cabin, a plain blank painted entrance wall, a notice board covered in blank coloured papers, a first-floor balcony with potted plants overlooking the lot, a dented orange pressure-cooker-shaped spaceship with three legs wedged between two cars, in bright daylight. Commander Dhamaka says in a booming theatrical filmi-villain baritone, Hindi, that cracks into a flustered squeak when he is embarrassed, \"Namaste... ullu ke pathe. Arre! Yeh muh se kyun nikalta hai?!\" SFX: a squeaky voice crack, his whiskers twitch. Ambient noise: distant daytime traffic, birds, a faint scooter horn. Pixar-style 3D animation, warm saturated colours, soft cinematic lighting, shallow depth of field, expressive faces, no text, no captions, no subtitles, no watermarks."
+    },
+    {
+      "id": "s07",
+      "seconds": 8,
+      "beat": "story",
+      "set": "society-parking",
+      "timeOfDay": "day",
+      "ingredients": [
+        "cast/chintu/ing-full.png",
+        "cast/dhamaka/ing-full.png",
+        "sets/society-parking/plate-ing.png"
+      ],
+      "ingredientOrder": [
+        "chintu",
+        "dhamaka",
+        "society-parking"
+      ],
+      "camera": "medium shot, Chintu holding out a phone with a QR code",
+      "speaker": "chintu",
+      "line": "Teen sau ki class thi, bhaiya. UPI ya cash? Business ki baat hai.",
+      "words": 13,
+      "sfx": "a coin jingle, a phone ping",
+      "ambient": "distant daytime traffic, birds, a faint scooter horn",
+      "joinToNext": "cut",
+      "state": "pending",
+      "prompt": "Using the provided images for Chintu and Commander Dhamaka and the Sundar Vihar Society parking lot, create this shot. Camera: medium shot, Chintu holding out a phone with a QR code. Chintu, a skinny 12-year-old Indian boy, Pixar-style 3D, spiky short black hair, a big cheeky grin with a gap between his front teeth, an oversized white school shirt with the sleeves rolled up, blue shorts, scuffed sandals, a pencil behind one ear. Chintu holds out his open palm and a phone to Dhamaka like a shopkeeper. Also in frame: Commander Dhamaka, a small round Pixar-style 3D alien commander with smooth glossy orange-red skin like a polished toy, a big pear-shaped head with a glowing ruby-red gem in the centre of the forehead, two large glossy black eyes under thick dark angry eyebrows, two long curly whisker-feelers curling upward like a filmi villain's moustache, a black cape with a gold border, short stubby arms and legs. The scene is the parking lot of a middle-class Indian apartment society, rows of parked hatchbacks and scooters, a striped boom barrier and a small guard cabin, a plain blank painted entrance wall, a notice board covered in blank coloured papers, a first-floor balcony with potted plants overlooking the lot, a dented orange pressure-cooker-shaped spaceship with three legs wedged between two cars, in bright daylight. Chintu says in a fast cheeky young boy's voice, Hindi, confident and all business, \"Teen sau ki class thi, bhaiya. UPI ya cash? Business ki baat hai.\" SFX: a coin jingle, a phone ping. Ambient noise: distant daytime traffic, birds, a faint scooter horn. Pixar-style 3D animation, warm saturated colours, soft cinematic lighting, shallow depth of field, expressive faces, no text, no captions, no subtitles, no watermarks."
+    },
+    {
+      "id": "s08",
+      "seconds": 6,
+      "beat": "closing question",
+      "set": "society-parking",
+      "timeOfDay": "day",
+      "ingredients": [
+        "cast/bhondu/ing-full.png",
+        "cast/chintu/ing-full.png",
+        "sets/society-parking/plate-ing.png"
+      ],
+      "ingredientOrder": [
+        "bhondu",
+        "chintu",
+        "society-parking"
+      ],
+      "camera": "medium close-up, straight to camera",
+      "speaker": "bhondu",
+      "line": "Dhamaka ko ek serial wala dialogue sikhao. Aap kya likhoge?",
+      "words": 10,
+      "sfx": "a bright little chime",
+      "ambient": "distant daytime traffic, birds, a faint scooter horn",
+      "joinToNext": "cut",
+      "state": "pending",
+      "prompt": "Using the provided images for Lieutenant Bhondu and Chintu and the Sundar Vihar Society parking lot, create this shot. Camera: medium close-up, straight to camera. Lieutenant Bhondu, a very tall skinny Pixar-style 3D alien, soft sky-blue skin, a long noodle neck, a small round head with huge gentle glossy brown eyes, one droopy antenna with a soft yellow tip, a loose grey uniform that is too short at the wrists and ankles, a shy permanent smile. Bhondu holds Chintu's notebook upside down and reads from it. Also in frame: Chintu, a skinny 12-year-old Indian boy, Pixar-style 3D, spiky short black hair, a big cheeky grin with a gap between his front teeth, an oversized white school shirt with the sleeves rolled up, blue shorts, scuffed sandals, a pencil behind one ear. The scene is the parking lot of a middle-class Indian apartment society, rows of parked hatchbacks and scooters, a striped boom barrier and a small guard cabin, a plain blank painted entrance wall, a notice board covered in blank coloured papers, a first-floor balcony with potted plants overlooking the lot, a dented orange pressure-cooker-shaped spaceship with three legs wedged between two cars, in bright daylight. Lieutenant Bhondu says in a slow sweet sing-song tenor, Hindi, innocent and sincere, always starts with 'Sir ji', \"Dhamaka ko ek serial wala dialogue sikhao. Aap kya likhoge?\" SFX: a bright little chime. Ambient noise: distant daytime traffic, birds, a faint scooter horn. Pixar-style 3D animation, warm saturated colours, soft cinematic lighting, shallow depth of field, expressive faces, no text, no captions, no subtitles, no watermarks."
+    }
+  ],
+  "assembly": {
+    "with": "vids",
+    "captions": true,
+    "music": "light dhol-and-tabla comic score under dialogue",
+    "titleCard": "DIN 11: HINDI KA LESSON",
+    "pinnedComment": "Dhamaka ko ek serial wala dramatic dialogue sikhana hai. Aap kya likhoge?",
+    "note": "Veo cannot spell: title card and captions are added in Vids."
+  },
+  "estimate": {
+    "clips": 8,
+    "seconds": 62,
+    "retryAllowance": 1.25,
+    "lite": {
+      "creditsPerClip": 10,
+      "creditsTotal": 100
+    },
+    "omni720": {
+      "creditsPerSecond": 3,
+      "creditsTotal": 232
+    },
+    "note": "Google Flow help, read 2026-11-07. Account is on a Pro-level balance, not Ultra."
+  },
+  "version": 1
+}

@@ -1,0 +1,244 @@
+{
+  "slug": "gadbad-e01-parking-mein-ufo",
+  "title": "Parking Mein UFO",
+  "series": "gadbad-grah",
+  "status": "planned, not generated",
+  "language": "hi-IN (romanised Hinglish)",
+  "aspect": "9:16",
+  "model": "to be chosen after the model test: veo-3.1-lite (8 s, 10 credits) or omni-flash-1.2 (3 credits per second, 720p)",
+  "styleLine": "Pixar-style 3D animation, warm saturated colours, soft cinematic lighting, shallow depth of field, expressive faces, no text, no captions, no subtitles, no watermarks.",
+  "cast": [
+    "bhondu",
+    "dhamaka",
+    "mausi",
+    "sharma-aunty"
+  ],
+  "sets": [
+    "ship-bridge",
+    "society-parking"
+  ],
+  "beats": [
+    "hook: A pressure-cooker spaceship slams onto a scooter and whistles; Dhamaka is mid-threat.",
+    "format: absurd-rule service skit (the fine)",
+    "story: Dhamaka lands on someone's scooter in Sundar Vihar Society and is fined by the secretary before he can attack."
+  ],
+  "shots": [
+    {
+      "id": "s01",
+      "seconds": 8,
+      "beat": "story",
+      "set": "society-parking",
+      "timeOfDay": "night",
+      "ingredients": [
+        "cast/dhamaka/ing-full.png",
+        "sets/society-parking/plate-ing.png"
+      ],
+      "ingredientOrder": [
+        "dhamaka",
+        "society-parking"
+      ],
+      "camera": "wide, ship slams in, then fast push-in on Dhamaka",
+      "speaker": "dhamaka",
+      "line": "Prithvi walon, kaanp jao! Main tumhara ant... arre! Yeh kiska scooter hai?!",
+      "words": 12,
+      "sfx": "a heavy thud, the ship's whistle seeeeti, a flattened-scooter squeak",
+      "ambient": "distant night traffic, crickets, a faint far-off dog",
+      "joinToNext": "cut",
+      "state": "pending",
+      "prompt": "Using the provided images for Commander Dhamaka and the Sundar Vihar Society parking lot, create this shot. Camera: wide, ship slams in, then fast push-in on Dhamaka. Commander Dhamaka, a small round Pixar-style 3D alien commander with smooth glossy orange-red skin like a polished toy, a big pear-shaped head with a glowing ruby-red gem in the centre of the forehead, two large glossy black eyes under thick dark angry eyebrows, two long curly whisker-feelers curling upward like a filmi villain's moustache, a black cape with a gold border, short stubby arms and legs. The orange pressure-cooker ship crashes onto a parked scooter, steam shoots from its whistle, Dhamaka leaps out and then looks down. The scene is the parking lot of a middle-class Indian apartment society, rows of parked hatchbacks and scooters, a striped boom barrier and a small guard cabin, a plain blank painted entrance wall, a notice board covered in blank coloured papers, a first-floor balcony with potted plants overlooking the lot, a dented orange pressure-cooker-shaped spaceship with three legs wedged between two cars, at night under yellow street lamps. Commander Dhamaka says in a booming theatrical filmi-villain baritone, Hindi, that cracks into a flustered squeak when he is embarrassed, \"Prithvi walon, kaanp jao! Main tumhara ant... arre! Yeh kiska scooter hai?!\" SFX: a heavy thud, the ship's whistle seeeeti, a flattened-scooter squeak. Ambient noise: distant night traffic, crickets, a faint far-off dog. Pixar-style 3D animation, warm saturated colours, soft cinematic lighting, shallow depth of field, expressive faces, no text, no captions, no subtitles, no watermarks."
+    },
+    {
+      "id": "s02",
+      "seconds": 8,
+      "beat": "story",
+      "set": "ship-bridge",
+      "timeOfDay": "night",
+      "ingredients": [
+        "cast/bhondu/ing-full.png",
+        "sets/ship-bridge/plate-ing.png"
+      ],
+      "ingredientOrder": [
+        "bhondu",
+        "ship-bridge"
+      ],
+      "camera": "medium shot, handheld wobble",
+      "speaker": "bhondu",
+      "line": "Sir ji, scooter ne chhoti si cheekh maari. Hamari galti nahi hai na?",
+      "words": 13,
+      "sfx": "a creak of bent metal, a nervous gulp",
+      "ambient": "a low ship hum, a faint soap-opera murmur from an old TV, steel creaks",
+      "joinToNext": "cut",
+      "state": "pending",
+      "prompt": "Using the provided images for Lieutenant Bhondu and the Ship bridge, create this shot. Camera: medium shot, handheld wobble. Lieutenant Bhondu, a very tall skinny Pixar-style 3D alien, soft sky-blue skin, a long noodle neck, a small round head with huge gentle glossy brown eyes, one droopy antenna with a soft yellow tip, a loose grey uniform that is too short at the wrists and ankles, a shy permanent smile. Bhondu peers out of a round porthole at the flattened scooter below. The scene is the cramped round cabin inside a dented orange pressure-cooker spaceship, curved riveted steel walls, three mismatched cushioned seats, a steel console with big chunky knobs and a small framed portrait of a round kind orange alien woman wearing a glowing pink ring necklace, a dusty old CRT television in the corner playing a soap opera, a glowing pearl-white orb on a stand in the middle, a steam-whistle valve overhead, round portholes showing the outside, with dark portholes and warm tungsten light. Lieutenant Bhondu says in a slow sweet sing-song tenor, Hindi, innocent and sincere, always starts with 'Sir ji', \"Sir ji, scooter ne chhoti si cheekh maari. Hamari galti nahi hai na?\" SFX: a creak of bent metal, a nervous gulp. Ambient noise: a low ship hum, a faint soap-opera murmur from an old TV, steel creaks. Pixar-style 3D animation, warm saturated colours, soft cinematic lighting, shallow depth of field, expressive faces, no text, no captions, no subtitles, no watermarks."
+    },
+    {
+      "id": "s03",
+      "seconds": 8,
+      "beat": "story",
+      "set": "society-parking",
+      "timeOfDay": "night",
+      "ingredients": [
+        "cast/dhamaka/ing-full.png",
+        "sets/society-parking/plate-ing.png"
+      ],
+      "ingredientOrder": [
+        "dhamaka",
+        "society-parking"
+      ],
+      "camera": "low-angle medium shot",
+      "speaker": "dhamaka",
+      "line": "Imarat ke maalik! Bahar aao, ullu ke pathe, warna sab bhasm kar dunga!",
+      "words": 13,
+      "sfx": "his echo off the walls, window latches, a distant dog barks",
+      "ambient": "distant night traffic, crickets, a faint far-off dog",
+      "joinToNext": "cut",
+      "state": "pending",
+      "prompt": "Using the provided images for Commander Dhamaka and the Sundar Vihar Society parking lot, create this shot. Camera: low-angle medium shot. Commander Dhamaka, a small round Pixar-style 3D alien commander with smooth glossy orange-red skin like a polished toy, a big pear-shaped head with a glowing ruby-red gem in the centre of the forehead, two large glossy black eyes under thick dark angry eyebrows, two long curly whisker-feelers curling upward like a filmi villain's moustache, a black cape with a gold border, short stubby arms and legs. Dhamaka points his ray gun up at a dark apartment block as window lights switch on one by one. The scene is the parking lot of a middle-class Indian apartment society, rows of parked hatchbacks and scooters, a striped boom barrier and a small guard cabin, a plain blank painted entrance wall, a notice board covered in blank coloured papers, a first-floor balcony with potted plants overlooking the lot, a dented orange pressure-cooker-shaped spaceship with three legs wedged between two cars, at night under yellow street lamps. Commander Dhamaka says in a booming theatrical filmi-villain baritone, Hindi, that cracks into a flustered squeak when he is embarrassed, \"Imarat ke maalik! Bahar aao, ullu ke pathe, warna sab bhasm kar dunga!\" SFX: his echo off the walls, window latches, a distant dog barks. Ambient noise: distant night traffic, crickets, a faint far-off dog. Pixar-style 3D animation, warm saturated colours, soft cinematic lighting, shallow depth of field, expressive faces, no text, no captions, no subtitles, no watermarks."
+    },
+    {
+      "id": "s04",
+      "seconds": 8,
+      "beat": "story",
+      "set": "society-parking",
+      "timeOfDay": "night",
+      "ingredients": [
+        "cast/sharma-aunty/ing-full.png",
+        "sets/society-parking/plate-ing.png"
+      ],
+      "ingredientOrder": [
+        "sharma-aunty",
+        "society-parking"
+      ],
+      "camera": "medium shot, slow push-in",
+      "speaker": "sharma-aunty",
+      "line": "Barah baje cheekh rahe ho? Bhasm baad mein, pehle paanch sau rupaye.",
+      "words": 12,
+      "sfx": "a torch click, slippers slapping on stone",
+      "ambient": "distant night traffic, crickets, a faint far-off dog",
+      "joinToNext": "cut",
+      "state": "pending",
+      "prompt": "Using the provided images for Sharma Aunty and the Sundar Vihar Society parking lot, create this shot. Camera: medium shot, slow push-in. Sharma Aunty, a sturdy 50-year-old Indian housing-society secretary, Pixar-style 3D, a sharp black bob with one grey streak, rectangular glasses on a beaded chain, a bold magenta block-print cotton kurta, dark red lipstick, one permanently raised eyebrow. A balcony light flicks on; Sharma Aunty marches down in a night-suit with a torch and clipboard. The scene is the parking lot of a middle-class Indian apartment society, rows of parked hatchbacks and scooters, a striped boom barrier and a small guard cabin, a plain blank painted entrance wall, a notice board covered in blank coloured papers, a first-floor balcony with potted plants overlooking the lot, a dented orange pressure-cooker-shaped spaceship with three legs wedged between two cars, at night under yellow street lamps. Sharma Aunty says in a fast sharp loud confident woman's voice, Hindi, zero fear, dry, \"Barah baje cheekh rahe ho? Bhasm baad mein, pehle paanch sau rupaye.\" SFX: a torch click, slippers slapping on stone. Ambient noise: distant night traffic, crickets, a faint far-off dog. Pixar-style 3D animation, warm saturated colours, soft cinematic lighting, shallow depth of field, expressive faces, no text, no captions, no subtitles, no watermarks."
+    },
+    {
+      "id": "s05",
+      "seconds": 8,
+      "beat": "story",
+      "set": "society-parking",
+      "timeOfDay": "night",
+      "ingredients": [
+        "cast/dhamaka/ing-full.png",
+        "sets/society-parking/plate-ing.png"
+      ],
+      "ingredientOrder": [
+        "dhamaka",
+        "society-parking"
+      ],
+      "camera": "close-up",
+      "speaker": "dhamaka",
+      "line": "Paanch sau?! Main Gadbad ka commander hoon! Mere paas toh Gadbadi paisa hai!",
+      "words": 13,
+      "sfx": "a small gem flicker, a comic squeak",
+      "ambient": "distant night traffic, crickets, a faint far-off dog",
+      "joinToNext": "cut",
+      "state": "pending",
+      "prompt": "Using the provided images for Commander Dhamaka and the Sundar Vihar Society parking lot, create this shot. Camera: close-up. Commander Dhamaka, a small round Pixar-style 3D alien commander with smooth glossy orange-red skin like a polished toy, a big pear-shaped head with a glowing ruby-red gem in the centre of the forehead, two large glossy black eyes under thick dark angry eyebrows, two long curly whisker-feelers curling upward like a filmi villain's moustache, a black cape with a gold border, short stubby arms and legs. Dhamaka's eyes go wide, his gem flickers from red to pink for a second, and his voice squeaks. The scene is the parking lot of a middle-class Indian apartment society, rows of parked hatchbacks and scooters, a striped boom barrier and a small guard cabin, a plain blank painted entrance wall, a notice board covered in blank coloured papers, a first-floor balcony with potted plants overlooking the lot, a dented orange pressure-cooker-shaped spaceship with three legs wedged between two cars, at night under yellow street lamps. Commander Dhamaka says in a booming theatrical filmi-villain baritone, Hindi, that cracks into a flustered squeak when he is embarrassed, \"Paanch sau?! Main Gadbad ka commander hoon! Mere paas toh Gadbadi paisa hai!\" SFX: a small gem flicker, a comic squeak. Ambient noise: distant night traffic, crickets, a faint far-off dog. Pixar-style 3D animation, warm saturated colours, soft cinematic lighting, shallow depth of field, expressive faces, no text, no captions, no subtitles, no watermarks."
+    },
+    {
+      "id": "s06",
+      "seconds": 8,
+      "beat": "story",
+      "set": "society-parking",
+      "timeOfDay": "night",
+      "ingredients": [
+        "cast/sharma-aunty/ing-full.png",
+        "sets/society-parking/plate-ing.png"
+      ],
+      "ingredientOrder": [
+        "sharma-aunty",
+        "society-parking"
+      ],
+      "camera": "medium two-shot",
+      "speaker": "sharma-aunty",
+      "line": "Gadbadi paisa? Hum sirf UPI lete hain. Yeh dibba hatao. Sticker kahan hai?",
+      "words": 13,
+      "sfx": "a tape rip, a paper slap",
+      "ambient": "distant night traffic, crickets, a faint far-off dog",
+      "joinToNext": "cut",
+      "state": "pending",
+      "prompt": "Using the provided images for Sharma Aunty and the Sundar Vihar Society parking lot, create this shot. Camera: medium two-shot. Sharma Aunty, a sturdy 50-year-old Indian housing-society secretary, Pixar-style 3D, a sharp black bob with one grey streak, rectangular glasses on a beaded chain, a bold magenta block-print cotton kurta, dark red lipstick, one permanently raised eyebrow. Aunty tears off a strip of tape and sticks a paper notice on the ship's hatch. The scene is the parking lot of a middle-class Indian apartment society, rows of parked hatchbacks and scooters, a striped boom barrier and a small guard cabin, a plain blank painted entrance wall, a notice board covered in blank coloured papers, a first-floor balcony with potted plants overlooking the lot, a dented orange pressure-cooker-shaped spaceship with three legs wedged between two cars, at night under yellow street lamps. Sharma Aunty says in a fast sharp loud confident woman's voice, Hindi, zero fear, dry, \"Gadbadi paisa? Hum sirf UPI lete hain. Yeh dibba hatao. Sticker kahan hai?\" SFX: a tape rip, a paper slap. Ambient noise: distant night traffic, crickets, a faint far-off dog. Pixar-style 3D animation, warm saturated colours, soft cinematic lighting, shallow depth of field, expressive faces, no text, no captions, no subtitles, no watermarks."
+    },
+    {
+      "id": "s07",
+      "seconds": 8,
+      "beat": "story",
+      "set": "ship-bridge",
+      "timeOfDay": "night",
+      "ingredients": [
+        "cast/mausi/ing-full.png",
+        "cast/dhamaka/ing-full.png",
+        "sets/ship-bridge/plate-ing.png"
+      ],
+      "ingredientOrder": [
+        "mausi",
+        "dhamaka",
+        "ship-bridge"
+      ],
+      "camera": "close-up on the glowing orb, Dhamaka sulking out of focus behind",
+      "speaker": "mausi",
+      "line": "Beta, daal-chawal garam hai. Hamla kal bhi ho jayega. Pehle khaana.",
+      "words": 11,
+      "sfx": "a soft pulse hum, a spoon on a steel plate",
+      "ambient": "a low ship hum, a faint soap-opera murmur from an old TV, steel creaks",
+      "joinToNext": "cut",
+      "state": "pending",
+      "prompt": "Using the provided images for Mausi and Commander Dhamaka and the Ship bridge, create this shot. Camera: close-up on the glowing orb, Dhamaka sulking out of focus behind. Mausi, a floating football-sized Pixar-style 3D pearl-white glowing orb with a soft pink ring of light around its middle that pulses when she speaks, no face, no limbs, a faint warm shimmer. Mausi's pearl orb pulses pink while Dhamaka sulks behind her; a small framed photo is just visible on the console. Also in frame: Commander Dhamaka, a small round Pixar-style 3D alien commander with smooth glossy orange-red skin like a polished toy, a big pear-shaped head with a glowing ruby-red gem in the centre of the forehead, two large glossy black eyes under thick dark angry eyebrows, two long curly whisker-feelers curling upward like a filmi villain's moustache, a black cape with a gold border, short stubby arms and legs. The scene is the cramped round cabin inside a dented orange pressure-cooker spaceship, curved riveted steel walls, three mismatched cushioned seats, a steel console with big chunky knobs and a small framed portrait of a round kind orange alien woman wearing a glowing pink ring necklace, a dusty old CRT television in the corner playing a soap opera, a glowing pearl-white orb on a stand in the middle, a steam-whistle valve overhead, round portholes showing the outside, with dark portholes and warm tungsten light. Mausi says in a warm unhurried nagging-aunty voice, Hindi, gently sarcastic, never rushed, \"Beta, daal-chawal garam hai. Hamla kal bhi ho jayega. Pehle khaana.\" SFX: a soft pulse hum, a spoon on a steel plate. Ambient noise: a low ship hum, a faint soap-opera murmur from an old TV, steel creaks. Pixar-style 3D animation, warm saturated colours, soft cinematic lighting, shallow depth of field, expressive faces, no text, no captions, no subtitles, no watermarks."
+    },
+    {
+      "id": "s08",
+      "seconds": 6,
+      "beat": "closing question",
+      "set": "ship-bridge",
+      "timeOfDay": "night",
+      "ingredients": [
+        "cast/bhondu/ing-full.png",
+        "sets/ship-bridge/plate-ing.png"
+      ],
+      "ingredientOrder": [
+        "bhondu",
+        "ship-bridge"
+      ],
+      "camera": "medium close-up, straight to camera",
+      "speaker": "bhondu",
+      "line": "Kal main kya khaaun? Aap batao, aur kyun?",
+      "words": 8,
+      "sfx": "a bright little chime",
+      "ambient": "a low ship hum, a faint soap-opera murmur from an old TV, steel creaks",
+      "joinToNext": "cut",
+      "state": "pending",
+      "prompt": "Using the provided images for Lieutenant Bhondu and the Ship bridge, create this shot. Camera: medium close-up, straight to camera. Lieutenant Bhondu, a very tall skinny Pixar-style 3D alien, soft sky-blue skin, a long noodle neck, a small round head with huge gentle glossy brown eyes, one droopy antenna with a soft yellow tip, a loose grey uniform that is too short at the wrists and ankles, a shy permanent smile. Bhondu sits with a steel plate of daal-chawal and talks to camera. The scene is the cramped round cabin inside a dented orange pressure-cooker spaceship, curved riveted steel walls, three mismatched cushioned seats, a steel console with big chunky knobs and a small framed portrait of a round kind orange alien woman wearing a glowing pink ring necklace, a dusty old CRT television in the corner playing a soap opera, a glowing pearl-white orb on a stand in the middle, a steam-whistle valve overhead, round portholes showing the outside, with dark portholes and warm tungsten light. Lieutenant Bhondu says in a slow sweet sing-song tenor, Hindi, innocent and sincere, always starts with 'Sir ji', \"Kal main kya khaaun? Aap batao, aur kyun?\" SFX: a bright little chime. Ambient noise: a low ship hum, a faint soap-opera murmur from an old TV, steel creaks. Pixar-style 3D animation, warm saturated colours, soft cinematic lighting, shallow depth of field, expressive faces, no text, no captions, no subtitles, no watermarks."
+    }
+  ],
+  "assembly": {
+    "with": "vids",
+    "captions": true,
+    "music": "light dhol-and-tabla comic score under dialogue",
+    "titleCard": "DIN 12: PARKING MEIN UFO",
+    "pinnedComment": "Aapki society ka sabse ajeeb rule kaun sa hai? Aunty ko dikhana hai.",
+    "note": "Veo cannot spell: title card and captions are added in Vids."
+  },
+  "estimate": {
+    "clips": 8,
+    "seconds": 62,
+    "retryAllowance": 1.25,
+    "lite": {
+      "creditsPerClip": 10,
+      "creditsTotal": 100
+    },
+    "omni720": {
+      "creditsPerSecond": 3,
+      "creditsTotal": 232
+    },
+    "note": "Google Flow help, read 2026-11-07. Account is on a Pro-level balance, not Ultra."
+  },
+  "version": 1
+}

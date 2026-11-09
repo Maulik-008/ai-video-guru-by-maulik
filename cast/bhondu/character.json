@@ -2,7 +2,7 @@
   "id": "bhondu",
   "name": "Lieutenant Bhondu",
   "created": "2026-11-07",
-  "frozen": false,
+  "frozen": true,
   "description": "a very tall skinny Pixar-style 3D alien, soft sky-blue skin, a long noodle neck, a small round head with huge gentle glossy brown eyes, one droopy antenna with a soft yellow tip, a loose grey uniform that is too short at the wrists and ankles, a shy permanent smile",
   "voice": "slow sweet sing-song tenor, Hindi, innocent and sincere, always starts with 'Sir ji'",
   "signature": "holds a samosa in both long hands, starts lines with 'Sir ji', and closes most reels by asking the viewer one open question",
@@ -16,7 +16,9 @@
     "no English dialogue"
   ],
   "images": {
-    "anchor": "not yet generated. Generate in Gemini using prompts.md, accept one, then set frozen to true."
+    "anchor": "cast/bhondu/portrait.png",
+    "ingredient": "cast/bhondu/ing-full.png (centre-cropped square, 1024 px)",
+    "status": "approved by the user 2026-11-07; frozen"
   },
   "appearsIn": [
     "gadbad-grah:e00-e12,e14,p1,p2,p3"

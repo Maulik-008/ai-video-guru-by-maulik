@@ -2,7 +2,7 @@
   "id": "mausi",
   "name": "Mausi (ship computer)",
   "created": "2026-11-07",
-  "frozen": false,
+  "frozen": true,
   "description": "a floating football-sized Pixar-style 3D pearl-white glowing orb with a soft pink ring of light around its middle that pulses when she speaks, no face, no limbs, a faint warm shimmer",
   "voice": "warm unhurried nagging-aunty voice, Hindi, gently sarcastic, never rushed",
   "signature": "the pink ring pulses faster when she is worried and glows gold when she is proud",
@@ -15,7 +15,9 @@
     "no English dialogue"
   ],
   "images": {
-    "anchor": "not yet generated. Generate in Gemini using prompts.md, accept one, then set frozen to true."
+    "anchor": "cast/mausi/portrait.png",
+    "ingredient": "cast/mausi/ing-full.png (centre-cropped square, 1024 px)",
+    "status": "approved by the user 2026-11-07; frozen"
   },
   "appearsIn": [
     "gadbad-grah:p3,e01,e03,e05,e06,e07,e08,e10,e12,e13,e14"

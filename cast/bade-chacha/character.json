@@ -2,7 +2,7 @@
   "id": "bade-chacha",
   "name": "Bade Chacha",
   "created": "2026-11-07",
-  "frozen": false,
+  "frozen": true,
   "description": "an elderly Pixar-style 3D alien emperor with a very large wrinkled head and a small frail body, deep wrinkles, a drooping white handlebar moustache of glowing feelers, tiny round spectacles, a ruby-red gem on his wrinkled forehead, a permanently disappointed frown, a heavy maroon robe with gold trim",
   "voice": "slow raspy elderly voice, Hindi, tired and disappointed",
   "signature": "raises one wrinkled eyebrow and asks 'Result aaya?'",
@@ -14,7 +14,9 @@
     "never shouts except 'Order! Order!'"
   ],
   "images": {
-    "anchor": "not yet generated. Generate in Gemini using prompts.md, accept one, then set frozen to true."
+    "anchor": "cast/bade-chacha/portrait.png",
+    "ingredient": "cast/bade-chacha/ing-full.png (centre-cropped square, 1024 px)",
+    "status": "approved by the user 2026-11-07; frozen"
   },
   "appearsIn": [
     "gadbad-grah:e00,p1,p2,p3,e05,e10"

@@ -2,11 +2,11 @@
   "id": "society-parking",
   "name": "Sundar Vihar Society parking lot",
   "created": "2026-11-07",
-  "frozen": false,
+  "frozen": true,
   "description": "the parking lot of a middle-class Indian apartment society, rows of parked hatchbacks and scooters, a striped boom barrier and a small guard cabin, a plain blank painted entrance wall, a notice board covered in blank coloured papers, a first-floor balcony with potted plants overlooking the lot, a dented orange pressure-cooker-shaped spaceship with three legs wedged between two cars",
   "lighting": "varies per shot: warm yellow sodium lamps at night, cool pink-gold at dawn, bright flat sunlight by day",
   "timeOfDay": "night, dawn, dusk and day (state it in every prompt)",
-  "plate": "not yet generated. Generate in Gemini using prompts.md and accept one.",
+  "plate": "sets/society-parking/plate.png (full size), sets/society-parking/plate-ing.png (1280 px for uploads). Approved by the user 2026-11-07; frozen.",
   "constraints": [
     "no crowds; cars are parked or crawling",
     "no readable text on boards, papers or walls",
