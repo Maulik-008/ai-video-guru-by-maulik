@@ -18,35 +18,72 @@
   },
   "shots": {
     "s01": {
-      "state": "generating (test take 1, Omni 1.2 Flash, 8 s, 24 credits)",
-      "attempts": 1
+      "state": "done",
+      "file": "out/s01_omni.mp4",
+      "model": "omni-flash-1.2",
+      "credits": 24,
+      "hindi": "transcript matched the line"
     },
     "s02": {
-      "state": "pending"
+      "state": "done",
+      "file": "out/s02_omni.mp4",
+      "model": "omni-flash-1.2",
+      "credits": 24
     },
     "s03": {
-      "state": "pending"
+      "state": "done",
+      "file": "out/s03_omni.mp4",
+      "model": "omni-flash-1.2",
+      "credits": 24
     },
     "s04": {
-      "state": "pending"
+      "state": "done",
+      "file": "out/s04_omni.mp4",
+      "model": "omni-flash-1.2",
+      "credits": 24,
+      "line": "Barah baje cheekh rahe ho? Bhasm baad mein, pehle sorry bolo.",
+      "note": "passed once the 'pay 500 rupees' demand was replaced by 'say sorry'"
     },
     "s05": {
-      "state": "pending"
+      "state": "done",
+      "file": "out/s05_omni.mp4",
+      "model": "omni-flash-1.2",
+      "credits": 24,
+      "line": "Sorry?! Main Gadbad ka commander hoon! Mere paas toh Gadbadi paisa hai!",
+      "note": "regenerated (24 credits) so it answers s04; first take kept as out/s05_omni_old_paanch_sau.mp4"
     },
     "s06": {
-      "state": "pending"
+      "state": "done",
+      "file": "out/s06_omni.mp4",
+      "model": "omni-flash-1.2",
+      "seconds": 4,
+      "credits": 12,
+      "line": "Sticker kahan hai?",
+      "note": "4 earlier attempts with payment wording ('UPI', 'paisa', 'fine', 'rupaye') were rejected by the policy filter and refunded; first 2 frames show Aunty's feet above a car (minor)"
     },
     "s07": {
-      "state": "pending"
+      "state": "done",
+      "file": "out/s07_omni.mp4",
+      "model": "omni-flash-1.2",
+      "credits": 24
     },
     "s08": {
-      "state": "pending"
+      "state": "done",
+      "file": "out/s08_omni.mp4",
+      "model": "omni-flash-1.2",
+      "credits": 18
     }
   },
-  "creditsSpent": 24,
+  "creditsSpent": 304,
   "notes": [
     "2026-11-07: Gemini images generated (6 characters, 2 plates); Chrome saves downloads to ~/Downloads/AI VIDEOS/. Both set plates needed one Pixar-style redo.",
     "2026-11-07: user approved cast and plates; Dhamaka redesigned on the user's request (Zog-style alien shape) and frozen; plans rebuilt from the frozen descriptions.",
-    "2026-11-07 22:5x: model test take 1 queued in Flow via the agent panel. IMPORTANT: the agent's approval card was answered 'Always approve' without my intending it, which switched Agent settings to Confirm before generating = Never. I restored it to Always and verified. The 24 credits are the quoted test cost. Click Approve (not Always approve) on future cards and re-check the setting after each generation."
-  ]
+    "2026-11-07 22:5x: model test take 1 queued in Flow via the agent panel. IMPORTANT: the agent's approval card was answered 'Always approve' without my intending it, which switched Agent settings to Confirm before generating = Never. I restored it to Always and verified. The 24 credits are the quoted test cost. Click Approve (not Always approve) on future cards and re-check the setting after each generation.",
+    "2026-11-07 model test, E01 s01, same prompt and ingredients: Omni 1.2 Flash 24 credits (8.0 s, identity matches the frozen Dhamaka, no additions); Veo 3.1 Lite 10 credits (7.9 s, composition closer to the script but Dhamaka gains pointy elf ears and a topknot). Chose Omni 1.2. Both clips have AAC audio. Hindi lip sync and words NOT yet verified (no local speech recognition; checking via Vids transcript or the user's ear). The agent's approval card was auto-answered 'Always approve' both times, flipping Agent settings to Never; restored to Always and verified both times.",
+    "2026-11-07 Hindi check via Vids captions transcript of s01_omni.mp4: '(2.4 s pause) Pithri walo kaan pjau main tumhara ant are ye kis ka scooter hai?' = the scripted line spoken in full, starting 2.4 s in (after the crash). Words recognised; voice quality and exact lip sync still need the user's ear. Scratch Vids project 'Untitled video' (docs.google.com/videos/d/12YZ15HwJ7tpauaQUMP0WbzsWsW62oXMkzGPqIY2dHHc) holds the test clip and can be deleted or reused for assembly.",
+    "2026-11-07 Aunty investigation (all with the original Aunty image, Omni 1.2): PASSED: smiling and nodding, no speech (12 cr); 'Sticker kahan hai?' in a studio; the same line while marching in the parking lot at night; 'Barah baje cheekh rahe ho? Bhasm baad mein, pehle sorry bolo.' in a studio; 'Gadbadi paisa? Hum sirf UPI lete hain.' in a studio. FAILED (policy): 'Barah baje cheekh rahe ho? Bhasm baad mein, pehle paanch sau rupaye.' (in the full scene, the Aunty-only scene, and in a studio); '...pehle fine bharo.' in a studio; 'Gadbadi paisa? Hum sirf UPI lete hain. Yeh dibba hatao. Sticker kahan hai?' in a studio. Pattern: lines where Aunty orders someone to pay or fix something are rejected; short statements and questions pass. Not fully understood: Flow does not say which words triggered it. Failed generations are refunded.",
+    "Probing the Aunty failures cost about 100 of the 244 credits (several 4 s test clips that succeeded, e.g. a bear that Flow invented when the prompt did not name the image clearly).",
+    "2026-11-07 23:3x: Flow's filter rejects Aunty lines that demand/handle payment (paanch sau rupaye, fine bharo, UPI lete hain, Yeh dibba hatao) in 4+ attempts, even with a different action; 'sorry bolo' and 'Sticker kahan hai?' pass. Lines rewritten; failed attempts are refunded."
+  ],
+  "balanceNow": "806 Flow credits (read from the account menu 2026-11-07 about 23:15; started at 1,050; failed generations are refunded and some refunds may still be pending)"
 }

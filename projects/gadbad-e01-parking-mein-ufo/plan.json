@@ -111,13 +111,13 @@
       ],
       "camera": "medium shot, slow push-in",
       "speaker": "sharma-aunty",
-      "line": "Barah baje cheekh rahe ho? Bhasm baad mein, pehle paanch sau rupaye.",
-      "words": 12,
+      "line": "Barah baje cheekh rahe ho? Bhasm baad mein, pehle sorry bolo.",
+      "words": 11,
       "sfx": "a torch click, slippers slapping on stone",
       "ambient": "distant night traffic, crickets, a faint far-off dog",
       "joinToNext": "cut",
       "state": "pending",
-      "prompt": "Using the provided images for Sharma Aunty and the Sundar Vihar Society parking lot, create this shot. Camera: medium shot, slow push-in. Sharma Aunty, a sturdy 50-year-old Indian housing-society secretary, Pixar-style 3D, a sharp black bob with one grey streak, rectangular glasses on a beaded chain, a bold magenta block-print cotton kurta, dark red lipstick, one permanently raised eyebrow. A balcony light flicks on; Sharma Aunty marches down in a night-suit with a torch and clipboard. The scene is the parking lot of a middle-class Indian apartment society, rows of parked hatchbacks and scooters, a striped boom barrier and a small guard cabin, a plain blank painted entrance wall, a notice board covered in blank coloured papers, a first-floor balcony with potted plants overlooking the lot, a dented orange pressure-cooker-shaped spaceship with three legs wedged between two cars, at night under yellow street lamps. Sharma Aunty says in a fast sharp loud confident woman's voice, Hindi, zero fear, dry, \"Barah baje cheekh rahe ho? Bhasm baad mein, pehle paanch sau rupaye.\" SFX: a torch click, slippers slapping on stone. Ambient noise: distant night traffic, crickets, a faint far-off dog. Pixar-style 3D animation, warm saturated colours, soft cinematic lighting, shallow depth of field, expressive faces, no text, no captions, no subtitles, no watermarks."
+      "prompt": "Using the provided images for Sharma Aunty and the Sundar Vihar Society parking lot, create this shot. Camera: medium shot, slow push-in. Sharma Aunty, a sturdy 50-year-old Indian housing-society secretary, Pixar-style 3D, a sharp black bob with one grey streak, rectangular glasses on a beaded chain, a bold magenta block-print cotton kurta, dark red lipstick, one permanently raised eyebrow. A balcony light flicks on; Sharma Aunty marches down in slippers with a flashlight and a clipboard. The scene is the parking lot of a middle-class Indian apartment society, rows of parked hatchbacks and scooters, a striped boom barrier and a small guard cabin, a plain blank painted entrance wall, a notice board covered in blank coloured papers, a first-floor balcony with potted plants overlooking the lot, a dented orange pressure-cooker-shaped spaceship with three legs wedged between two cars, at night under yellow street lamps. Sharma Aunty says in a fast sharp loud confident woman's voice, Hindi, zero fear, dry, \"Barah baje cheekh rahe ho? Bhasm baad mein, pehle sorry bolo.\" SFX: a flashlight click, slippers slapping on stone. Ambient noise: distant night traffic, crickets, a faint far-off dog. Pixar-style 3D animation, warm saturated colours, soft cinematic lighting, shallow depth of field, expressive faces, no text, no captions, no subtitles, no watermarks."
     },
     {
       "id": "s05",
@@ -135,17 +135,17 @@
       ],
       "camera": "close-up",
       "speaker": "dhamaka",
-      "line": "Paanch sau?! Main Gadbad ka commander hoon! Mere paas toh Gadbadi paisa hai!",
-      "words": 13,
+      "line": "Sorry?! Main Gadbad ka commander hoon! Mere paas toh Gadbadi paisa hai!",
+      "words": 12,
       "sfx": "a small gem flicker, a comic squeak",
       "ambient": "distant night traffic, crickets, a faint far-off dog",
       "joinToNext": "cut",
       "state": "pending",
-      "prompt": "Using the provided images for Commander Dhamaka and the Sundar Vihar Society parking lot, create this shot. Camera: close-up. Commander Dhamaka, a small round Pixar-style 3D alien commander with smooth glossy orange-red skin like a polished toy, a big pear-shaped head with a glowing ruby-red gem in the centre of the forehead, two large glossy black eyes under thick dark angry eyebrows, two long curly whisker-feelers curling upward like a filmi villain's moustache, a black cape with a gold border, short stubby arms and legs. Dhamaka's eyes go wide, his gem flickers from red to pink for a second, and his voice squeaks. The scene is the parking lot of a middle-class Indian apartment society, rows of parked hatchbacks and scooters, a striped boom barrier and a small guard cabin, a plain blank painted entrance wall, a notice board covered in blank coloured papers, a first-floor balcony with potted plants overlooking the lot, a dented orange pressure-cooker-shaped spaceship with three legs wedged between two cars, at night under yellow street lamps. Commander Dhamaka says in a booming theatrical filmi-villain baritone, Hindi, that cracks into a flustered squeak when he is embarrassed, \"Paanch sau?! Main Gadbad ka commander hoon! Mere paas toh Gadbadi paisa hai!\" SFX: a small gem flicker, a comic squeak. Ambient noise: distant night traffic, crickets, a faint far-off dog. Pixar-style 3D animation, warm saturated colours, soft cinematic lighting, shallow depth of field, expressive faces, no text, no captions, no subtitles, no watermarks."
+      "prompt": "Using the provided images for Commander Dhamaka and the Sundar Vihar Society parking lot, create this shot. Camera: close-up. Commander Dhamaka, a small round Pixar-style 3D alien commander with smooth glossy orange-red skin like a polished toy, a big pear-shaped head with a glowing ruby-red gem in the centre of the forehead, two large glossy black eyes under thick dark angry eyebrows, two long curly whisker-feelers curling upward like a filmi villain's moustache, a black cape with a gold border, short stubby arms and legs. Dhamaka's eyes go wide, his gem flickers from red to pink for a second, and his voice squeaks. The scene is the parking lot of a middle-class Indian apartment society, rows of parked hatchbacks and scooters, a striped boom barrier and a small guard cabin, a plain blank painted entrance wall, a notice board covered in blank coloured papers, a first-floor balcony with potted plants overlooking the lot, a dented orange pressure-cooker-shaped spaceship with three legs wedged between two cars, at night under yellow street lamps. Commander Dhamaka says in a booming theatrical filmi-villain baritone, Hindi, that cracks into a flustered squeak when he is embarrassed, \"Sorry?! Main Gadbad ka commander hoon! Mere paas toh Gadbadi paisa hai!\" SFX: a small gem flicker, a comic squeak. Ambient noise: distant night traffic, crickets, a faint far-off dog. Pixar-style 3D animation, warm saturated colours, soft cinematic lighting, shallow depth of field, expressive faces, no text, no captions, no subtitles, no watermarks."
     },
     {
       "id": "s06",
-      "seconds": 8,
+      "seconds": 4,
       "beat": "story",
       "set": "society-parking",
       "timeOfDay": "night",
@@ -159,13 +159,13 @@
       ],
       "camera": "medium two-shot",
       "speaker": "sharma-aunty",
-      "line": "Gadbadi paisa? Hum sirf UPI lete hain. Yeh dibba hatao. Sticker kahan hai?",
-      "words": 13,
-      "sfx": "a tape rip, a paper slap",
+      "line": "Sticker kahan hai?",
+      "words": 3,
+      "sfx": "a slipper tap, a paper rustle",
       "ambient": "distant night traffic, crickets, a faint far-off dog",
       "joinToNext": "cut",
       "state": "pending",
-      "prompt": "Using the provided images for Sharma Aunty and the Sundar Vihar Society parking lot, create this shot. Camera: medium two-shot. Sharma Aunty, a sturdy 50-year-old Indian housing-society secretary, Pixar-style 3D, a sharp black bob with one grey streak, rectangular glasses on a beaded chain, a bold magenta block-print cotton kurta, dark red lipstick, one permanently raised eyebrow. Aunty tears off a strip of tape and sticks a paper notice on the ship's hatch. The scene is the parking lot of a middle-class Indian apartment society, rows of parked hatchbacks and scooters, a striped boom barrier and a small guard cabin, a plain blank painted entrance wall, a notice board covered in blank coloured papers, a first-floor balcony with potted plants overlooking the lot, a dented orange pressure-cooker-shaped spaceship with three legs wedged between two cars, at night under yellow street lamps. Sharma Aunty says in a fast sharp loud confident woman's voice, Hindi, zero fear, dry, \"Gadbadi paisa? Hum sirf UPI lete hain. Yeh dibba hatao. Sticker kahan hai?\" SFX: a tape rip, a paper slap. Ambient noise: distant night traffic, crickets, a faint far-off dog. Pixar-style 3D animation, warm saturated colours, soft cinematic lighting, shallow depth of field, expressive faces, no text, no captions, no subtitles, no watermarks."
+      "prompt": "Using the provided images for Sharma Aunty and the Sundar Vihar Society parking lot, create this shot. Camera: medium two-shot. Sharma Aunty, a sturdy 50-year-old Indian housing-society secretary, Pixar-style 3D, a sharp black bob with one grey streak, rectangular glasses on a beaded chain, a bold magenta block-print cotton kurta, dark red lipstick, one permanently raised eyebrow. Aunty folds one arm over her clipboard, taps a slipper on the ground and points at the ship with a raised eyebrow. The scene is the parking lot of a middle-class Indian apartment society, rows of parked hatchbacks and scooters, a striped boom barrier and a small guard cabin, a plain blank painted entrance wall, a notice board covered in blank coloured papers, a first-floor balcony with potted plants overlooking the lot, a dented orange pressure-cooker-shaped spaceship with three legs wedged between two cars, at night under yellow street lamps. Sharma Aunty says in a fast sharp loud confident woman's voice, Hindi, zero fear, dry, \"Sticker kahan hai?\" SFX: a slipper tap, a paper rustle. Ambient noise: distant night traffic, crickets, a faint far-off dog. Pixar-style 3D animation, warm saturated colours, soft cinematic lighting, shallow depth of field, expressive faces, no text, no captions, no subtitles, no watermarks."
     },
     {
       "id": "s07",

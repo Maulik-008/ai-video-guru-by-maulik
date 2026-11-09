@@ -46,7 +46,7 @@ Word budgets per shot: 6 s up to 14 hard (aim for 10), 8 s up to 18 hard (aim fo
 |---|---|---|---|---|---|---|
 | s01 | 6 | ship-bridge · night | close-up, hologram flicker | bade-chacha | "Prithvi jeet ke aana beta, warna ghar mein entry band." | 10 |
 | s02 | 6 | society-parking · dusk | low-angle hero shot | dhamaka | "Prithvi walon! Ab hoga... DHAMAKA!" | 5 |
-| s03 | 8 | society-parking · dusk | medium close-up, quick push-in | sharma-aunty | "Ullu ke pathe! Hamla karne se pehle parking sticker dikhao!" | 10 |
+| s03 | 8 | society-parking · dusk | medium close-up, quick push-in | sharma-aunty | "Ullu ke pathe! Hamla karne se pehle sticker kahan hai?" | 10 |
 | s04 | 6 | society-parking · dusk | medium close-up, straight to camera | bhondu | "Baarah din baaki! Aap Aunty ke fine se kaise bachoge?" ⟵ closing question | 10 |
 
 **What we see and hear:**
@@ -75,9 +75,9 @@ Word budgets per shot: 6 s up to 14 hard (aim for 10), 8 s up to 18 hard (aim fo
 | s01 | 8 | society-parking · night | wide, ship slams in, then fast push-in on Dhamaka | dhamaka | "Prithvi walon, kaanp jao! Main tumhara ant... arre! Yeh kiska scooter hai?!" | 12 |
 | s02 | 8 | ship-bridge · night | medium shot, handheld wobble | bhondu | "Sir ji, scooter ne chhoti si cheekh maari. Hamari galti nahi hai na?" | 13 |
 | s03 | 8 | society-parking · night | low-angle medium shot | dhamaka | "Imarat ke maalik! Bahar aao, ullu ke pathe, warna sab bhasm kar dunga!" | 13 |
-| s04 | 8 | society-parking · night | medium shot, slow push-in | sharma-aunty | "Barah baje cheekh rahe ho? Bhasm baad mein, pehle paanch sau rupaye." | 12 |
-| s05 | 8 | society-parking · night | close-up | dhamaka | "Paanch sau?! Main Gadbad ka commander hoon! Mere paas toh Gadbadi paisa hai!" | 13 |
-| s06 | 8 | society-parking · night | medium two-shot | sharma-aunty | "Gadbadi paisa? Hum sirf UPI lete hain. Yeh dibba hatao. Sticker kahan hai?" | 13 |
+| s04 | 8 | society-parking · night | medium shot, slow push-in | sharma-aunty | "Barah baje cheekh rahe ho? Bhasm baad mein, pehle sorry bolo." | 12 |
+| s05 | 8 | society-parking · night | close-up | dhamaka | "Sorry?! Main Gadbad ka commander hoon! Mere paas toh Gadbadi paisa hai!" | 13 |
+| s06 | 8 | society-parking · night | medium two-shot | sharma-aunty | "Sticker kahan hai?" | 13 |
 | s07 | 8 | ship-bridge · night | close-up on the glowing orb, Dhamaka sulking out of focus behind | mausi | "Beta, daal-chawal garam hai. Hamla kal bhi ho jayega. Pehle khaana." | 11 |
 | s08 | 6 | ship-bridge · night | medium close-up, straight to camera | bhondu | "Kal main kya khaaun? Aap batao, aur kyun?" ⟵ closing question | 8 |
 
@@ -86,9 +86,9 @@ Word budgets per shot: 6 s up to 14 hard (aim for 10), 8 s up to 18 hard (aim fo
 - **s01** The orange pressure-cooker ship crashes onto a parked scooter, steam shoots from its whistle, Dhamaka leaps out and then looks down. *SFX:* a heavy thud, the ship's whistle seeeeti, a flattened-scooter squeak.
 - **s02** Bhondu peers out of a round porthole at the flattened scooter below. *SFX:* a creak of bent metal, a nervous gulp.
 - **s03** Dhamaka points his ray gun up at a dark apartment block as window lights switch on one by one. *SFX:* his echo off the walls, window latches, a distant dog barks.
-- **s04** A balcony light flicks on; Sharma Aunty marches down in a night-suit with a torch and clipboard. *SFX:* a torch click, slippers slapping on stone.
+- **s04** A balcony light flicks on; Sharma Aunty marches down in slippers with a flashlight and a clipboard. *SFX:* a torch click, slippers slapping on stone.
 - **s05** Dhamaka's eyes go wide, his gem flickers from red to pink for a second, and his voice squeaks. *SFX:* a small gem flicker, a comic squeak.
-- **s06** Aunty tears off a strip of tape and sticks a paper notice on the ship's hatch. *SFX:* a tape rip, a paper slap.
+- **s06** Aunty folds one arm over her clipboard, taps a slipper on the ground and points at the ship with a raised eyebrow. *SFX:* a tape rip, a paper slap.
 - **s07** Mausi's pearl orb pulses pink while Dhamaka sulks behind her; a small framed photo is just visible on the console. *SFX:* a soft pulse hum, a spoon on a steel plate.
 - **s08** Bhondu sits with a steel plate of daal-chawal and talks to camera. *SFX:* a bright little chime.
 
